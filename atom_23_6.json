@@ -1,0 +1,5870 @@
+[[{
+    "atomic number z": 0,
+    "symbol": "xxx",
+    "name": "xxx",
+    "mass": 0.0,
+    "change": {
+      "melting": 0.0,
+      "boiling": 100.0
+    },
+    "density": {
+      "normal" : 0.0
+    },
+    "heat": {
+      "fusion": 0.0,
+      "vaporization": 100.0
+    },
+    "radius": {
+      "covalent": 0,
+      "waals": 0
+    },
+    "state": {
+      "0": 0
+    },
+    "shell": {
+      "0": 0
+    },
+    "config": "xxx",
+    "ionization": {
+      "0": 0.0
+    },
+    "pauling": {
+      "0": 0.0
+    },
+    "group": 0,
+    "family": "xxx",
+    "block": "x",
+    "period": 0,
+    "phase": "xxx"
+  }],[{
+    "atomic number z": 1,
+    "symbol": "H",
+    "name": "Hydrogen",
+    "mass": 1.007975,
+     "change": {
+      "melting": 13.99,
+      "boiling": 20.271
+    },
+    "density": {
+      "gas" : 0.08988,
+      "liquid" : 0.07
+    },
+    "heat": {
+      "fusion": 0.117,
+      "vaporization": 0.904
+    },
+    "radius": {
+      "covalent": 0,
+      "waals": 120
+    },
+    "state": {
+      "0": 1,
+      "1": -1
+    },
+    "shell": {
+      "0": 1
+    },
+    "config": "1s1",
+    "ionization": { 
+      "0": 1312.0
+    },
+    "pauling": {
+      "0": 2.2
+    },
+    "group": 1,
+    "family": "alkali metals",
+    "period": 1,
+    "block": "s",
+    "phase": "gas"
+  }],[{
+    "atomic number z": 2,
+    "symbol": "He",
+    "name": "Helium",
+    "mass": 4.002602,
+    "change": {
+      "melting": 0.95,
+      "boiling": 4.222
+    },
+    "density": {
+      "gas" : 0.1786
+    },
+    "heat": {
+      "fusion": 0.0138,
+      "vaporization": 0.0829
+    },
+    "radius": {
+      "covalent": 28,
+      "waals": 140
+    },
+    "state": {
+      "0": 0
+    },
+    "shell": {
+      "0": 2
+    },
+    "config": "1s2",
+    "ionization": { 
+      "0":2372.3,
+      "1":5250.5
+    },
+    "pauling": {
+      "0": 0.0
+    },
+    "group": 18,
+    "family": "noble gases",
+    "period": 1,
+    "block": "s",
+    "phase": "gas"
+  }],[{
+    "atomic number z": 3,
+    "symbol": "Li",
+    "name": "Lithium",
+    "mass": 6.938,
+    "change": {
+      "melting": 453.65,
+      "boiling": 1603.0
+    },
+    "density": {
+      "solid" : 0.534
+    },
+    "heat": {
+      "fusion": 3.0,
+      "vaporization": 136.0
+    },
+    "radius": {
+      "atomic": 152,
+      "covalent": 128,
+      "waals": 182
+    },
+    "state": {
+      "0": 1,
+      "1": -1
+    },
+    "shell": {
+      "0": 2,
+      "1": 1
+    },
+    "config": "2s1",
+    "ionization": {
+      "0": 520.2,
+      "1": 728.1,
+      "2": 11815.0
+    },
+    "pauling": {
+      "0": 0.98
+    },
+    "group": 1,
+    "family": "alkali metals",
+    "period": 2,
+    "block": "s",
+    "phase": "solid"
+  }],[{
+    "atomic number z": 4,
+    "symbol": "Be",
+    "name": "Beryllium",
+    "mass": 9.0121831,
+    "change": {
+      "melting": 1560.0,
+      "boiling": 2742.0
+    },
+    "density": {
+      "solid" : 1.85
+    },
+    "heat": {
+      "fusion": 12.2,
+      "vaporization": 292.0
+    },
+    "radius": {
+      "atomic": 112,
+      "covalent": 96,
+      "waals": 153
+    },
+    "state": {
+      "0": 2
+    },
+    "shell": {
+      "0": 2,
+      "1": 2
+    },
+    "config": "2s2",
+    "ionization": {
+      "0": 899.5,
+      "1": 1757.1,
+      "2": 14848.7
+    },
+    "pauling": {
+      "0": 1.57
+    },
+    "group": 2,
+    "family": "alkaline earth metals",
+    "period": 2,
+    "block": "s",
+    "phase": "solid"
+  }],[{
+    "atomic number z": 5,
+    "symbol": "B",
+    "name": "Boron",
+    "mass": 10.806,
+    "change": {
+      "melting": 2349.0,
+      "boiling": 4200.0
+    },
+    "density": {
+      "liquid" : 2.08
+    },
+    "heat": {
+      "fusion": 50.2,
+      "vaporization": 508.0
+    },
+    "radius": {
+      "atomic": 90,
+      "covalent": 84,
+      "waals": 192
+    },
+    "state": {
+      "0":  -5,
+      "1": -1,
+      "2": 0,
+      "3": 1,
+      "4": 2,
+      "5": 3
+    },
+    "shell": {
+      "0": 2,
+      "1": 3
+    },
+    "config": "2s2_2p1",
+    "ionization": {
+      "0": 800.6,
+      "1": 2427.1,
+      "2": 3659.7
+    },
+    "pauling": {
+      "0": 2.04
+    },
+    "group": 13,
+    "family": "boron group",
+    "period": 2,
+    "block": "p",
+    "phase": "solid"
+  }],[{
+    "atomic number z": 6,
+    "symbol": "C",
+    "name": "Carbon",
+    "mass": 12.0106,
+    "change": {
+      "sublimation": 3915.0
+    },
+    "density": {
+      "solid graphite": 2.267,
+      "solid diamond": 3.515
+    },
+    "heat": {
+      "fusion graphite": 117.0
+    },
+    "radius": {
+      "covalent": 74,
+      "waals": 170
+    },
+    "state": {
+      "0": -4,
+      "1": -3,
+      "2": -2,
+      "3": -1,
+      "4": 0,
+      "5": 1,
+      "6": 2,
+      "7": 3,
+      "8": 4
+    },
+    "shell": {
+      "0": 2,
+      "1": 4
+    },
+    "config": "2s2_2p2",
+    "ionization": {
+      "0": 1086.5,
+      "1": 2352.6,
+      "2": 4620.5
+    },
+    "pauling": {
+      "0": 2.55
+    },
+    "group": 14,
+    "family": "carbon group",
+    "period": 2,
+    "block": "p",
+    "phase": "solid"
+  }],[{
+    "atomic number z": 7,
+    "symbol": "N",
+    "name": "Nitrogen",
+    "mass": 14.006855,
+    "change": {
+      "melting": 63.23,
+      "boiling": 77.355
+    },
+    "density": {
+      "gas": 1.2506
+    },
+    "heat": {
+      "fusion": 0.72,
+      "vaporization": 5.57
+    },
+    "radius": {
+      "covalent": 71,
+      "waals": 155
+    },
+    "state": {
+      "0": -3,
+      "1": -2,
+      "2": -1,
+      "3": 0,
+      "4": 1,
+      "5": 2,
+      "6": 3,
+      "7": 4,
+      "8": 5
+    },
+    "shell": {
+      "0": 2,
+      "1": 5
+    },
+    "config": "2s2_2p3",
+    "ionization": {
+      "0": 1402.3,
+      "1": 2856.0,
+      "2": 4578.1
+    },
+    "pauling": {
+      "0": 3.04
+    },
+    "group": 15,
+    "family": "pnictogens",
+    "period": 2,
+    "block": "p",
+    "phase": "gas"
+  }],[{
+    "atomic number z": 8,
+    "symbol": "O",
+    "name": "Oxygen",
+    "mass": 15.999,
+    "change": {
+      "melting": 54.36,
+      "boiling": 90.188
+    },
+    "density": {
+      "gas": 1.429,
+      "liquid": 1.141
+    },
+    "heat": {
+      "fusion": 0.444,
+      "vaporization": 6.82
+    },
+    "radius": {
+      "covalent": 66,
+      "waals": 152
+    },
+    "state": {
+      "0": -2,
+      "1": -1,
+      "2": 0,
+      "3": 1,
+      "4": 2
+    },
+    "shell": {
+      "0": 2,
+      "1": 6
+    },
+    "config": "2s2_2p4",
+    "ionization": {
+      "0": 1313.9,
+      "1": 3388.3,
+      "2": 5300.5
+    },
+    "pauling": {
+      "0": 3.44
+    },
+    "group": 16,
+    "family": "chalcogens",
+    "period": 2,
+    "block": "p",
+    "phase": "gas"
+  
+  }],[{
+    "atomic number z": 9,
+    "symbol": "F",
+    "name": "Fluorine",
+    "mass": 18.998,
+    "change": {
+      "melting": 53.48,
+      "boiling": 85.03
+    },
+    "density": {
+      "gas": 1.696,
+      "liquid": 1.505
+    },
+    "heat": {
+      "vaporization": 6.51
+    },
+    "radius": {
+      "covalent": 64,
+      "waals": 135
+    },
+    "state": {
+      "0": -1,
+      "1": 0
+    },
+    "shell": {
+      "0": 2,
+      "1": 7
+    },
+    "config": "2s2_2p5",
+    "ionization": {
+      "0": 1681.0,
+      "1": 3374.0,
+      "2": 6147.0
+    },
+    "pauling": {
+      "0": 3.98
+    },
+    "group": 17,
+    "family": "halogens",
+    "period": 2,
+    "block": "p",
+    "phase": "gas"
+  }],[{
+    "atomic number z": 10,
+    "symbol": "Ne",
+    "name": "Neon",
+    "mass": 20.1797,
+    "change": {
+      "melting": 24.56,
+      "boiling": 27.104
+    },
+    "density": {
+      "gas": 0.9002,
+      "liquid": 1.207
+    },
+    "heat": {
+      "fusion": 0.335,
+      "vaporization": 1.71
+    },
+    "radius": {
+      "covalent": 58,
+      "waals": 154
+    },
+    "state": {
+      "0": 0
+    },
+    "shell": {
+      "0": 2,
+      "1": 8
+    },
+    "config": "2s2_2p6",
+    "ionization": {
+      "0": 2080.7,
+      "1": 3952.3,
+      "2": 6122.0
+    },
+    "pauling": {
+      "0": 0.0
+    },
+    "group": 18,
+    "family": "noble gases",
+    "period": 2,
+    "block": "p",
+    "phase": "gas"
+  }],[{
+    "atomic number z": 11,
+    "symbol": "Na",
+    "name": "Sodium",
+    "mass": 22.989,
+    "change": {
+      "melting": 370.944,
+      "boiling": 1156.090
+    },
+    "density": {
+      "solid": 0.968,
+      "liquid": 0.927   
+    },
+    "heat": {
+      "fusion": 2.6,
+      "vaporization": 97.42
+    },
+    "radius": {
+      "atomic": 186,
+      "covalent": 166,
+      "waals": 227
+    },
+    "state": {
+      "0": -1,
+      "1": 0,
+      "2": 1
+    },
+    "shell": {
+      "0": 2,
+      "1": 8,
+      "2": 1
+    },
+    "config": "3s",
+    "ionization": {
+      "0": 495.8,
+      "1": 4562.0,
+      "2": 6910.3
+    },
+    "pauling": {
+      "0": 0.93
+    },
+    "group": 1,
+    "family": "hydrogen alkali metals",
+    "period": 3,
+    "block": "s",
+    "phase": "solid"
+  }],[{
+    "atomic number z": 12,
+    "symbol": "Mg",
+    "name": "Magnesium",
+    "mass": 24.304,
+    "change": {
+      "melting": 923.0,
+      "boiling": 1363.0
+    },
+    "density": {
+      "solid": 1.738,
+      "liquid": 1.584   
+    },
+    "heat": {
+      "fusion": 8.48,
+      "vaporization": 128.0
+    },
+    "radius": {
+      "atomic": 160,
+      "covalent": 141,
+      "waals": 173
+    },
+    "state": {
+      "0": 0,
+      "1": 1,
+      "2": 2
+    },
+    "shell": {
+      "0": 2,
+      "1": 8,
+      "2": 2
+    },
+    "config": "3s2",
+    "ionization": {
+      "0": 737.7,
+      "1": 1450.7,
+      "2": 7732.7
+    },
+    "pauling": {
+      "0": 1.31
+    },
+    "group": 2,
+    "family": "alkaline earth metals",
+    "period": 3,
+    "block": "s",
+    "phase": "solid"
+  }],[{
+    "atomic number z": 13,
+    "symbol": "Al",
+    "name": "Aluminium",
+    "mass": 26.981,
+    "change": {
+      "melting": 933.47,
+      "boiling": 2743.0
+    },
+    "density": {
+      "solid": 2.7,
+      "liquid": 2.375   
+    },
+    "heat": {
+      "fusion": 10.71,
+      "vaporization": 284.0
+    },
+    "radius": {
+      "atomic": 143,
+      "covalent": 121,
+      "waals": 184
+    },
+    "state": {
+      "0": -2,
+      "1": -1,
+      "2": 0,
+      "3": 1,
+      "4": 2,
+      "5": 3
+    },
+    "shell": {
+      "0": 2,
+      "1": 8,
+      "2": 3
+    },
+    "config": "3s2_3p1",
+    "ionization": {
+      "0": 577.5,
+      "1": 1816.7,
+      "2": 2744.8
+    },
+    "pauling": {
+      "0": 1.61
+    },
+    "group": 13,
+    "family": "boron group",
+    "period": 3,
+    "block": "p",
+    "phase": "solid"
+  }],[{
+    "atomic number z": 14,
+    "symbol": "Si",
+    "name": "Silicon",
+    "mass": 28.084,
+    "change": {
+      "melting": 1687.0,
+      "boiling": 3538.0
+    },
+    "density": {
+      "solid": 2.3290,
+      "liquid": 2.57   
+    },
+    "heat": {
+      "fusion": 50.21,
+      "vaporization": 383.0
+    },
+    "radius": {
+      "atomic": 111,
+      "covalent": 111,
+      "waals": 210
+    },
+    "state": {
+      "0": -4,
+      "1": -3,
+      "2": -2,
+      "3": -1,
+      "4": 0,
+      "5": 1,
+      "6": 2,
+      "7": 3,
+      "8": 4
+    },
+    "shell": {
+      "0": 2,
+      "1": 8,
+      "2": 4
+    },
+    "config": "3s2_3p2",
+    "ionization": {
+      "0": 786.5,
+      "1": 1577.1,
+      "2": 3231.6
+    },
+    "pauling": {
+      "0": 1.9
+    },
+    "group": 14,
+    "family": "carbon group",
+    "period": 3,
+    "block": "p",
+    "phase": "solid"
+  }],[{
+    "atomic number z": 15,
+    "symbol": "P",
+    "name": "Phosphorus",
+    "mass": 30.973,
+    "change": {
+      "melting white" : 317.3,
+      "melting red": 860.0,
+      "boiling white" : 553.7,
+      "sublimation red" : 689.2,
+      "sublimation violet": 893.0
+    },
+    "density": {
+      "white": 1.823,
+      "red": 2.28,
+      "violet": 2.36,
+      "black": 2.69   
+    },
+    "heat": {
+      "fusion white": 0.66,
+      "vaporization white": 51.9
+    },
+    "radius": {
+      "covalent": 107,
+      "waals": 180
+    },
+    "state": {
+      "0": -3,
+      "1": -2,
+      "2": -1,
+      "3": 0,
+      "4": 1,
+      "5": 2,
+      "6": 3,
+      "7": 4,
+      "8": 5
+    },
+    "shell": {
+      "0": 2,
+      "1": 8,
+      "2": 5
+    },
+    "config": "3s2_3p3",
+    "ionization": {
+      "0": 1011.8,
+      "1": 1907.0,
+      "2": 2914.1
+    },
+    "pauling": {
+      "0": 2.19
+    },
+    "group": 15,
+    "family": "pnictogens",
+    "period": 3,
+    "block": "p",
+    "phase": "solid"
+  }],[{
+    "atomic number z": 16,
+    "symbol": "S",
+    "name": "Sulfur",
+    "mass": 32.059,
+    "change": {
+      "melting": 388.36,
+      "boiling": 717.8
+    },
+    "density": {
+      "alpha": 2.07,
+      "beta": 1.96,
+      "gamma": 1.92  
+    },
+    "heat": {
+      "fusion": 1.727,
+      "vaporization": 45.0
+    },
+    "radius": {
+      "covalent": 105,
+      "waals": 180
+    },
+    "state": {
+      "0": -2,
+      "1": -1,
+      "2": 0,
+      "3": 1,
+      "4": 2,
+      "5": 3,
+      "6": 4,
+      "7": 5,
+      "8": 6
+    },
+    "shell": {
+      "0": 2,
+      "1": 8,
+      "2": 6
+    },
+    "config": "3s2_3p4",
+    "ionization": {
+      "0": 999.6,
+      "1": 2252.0,
+      "2": 3357.0
+    },
+    "pauling": {
+      "0": 2.58
+    },
+    "group": 16,
+    "family": "chalcogens",
+    "period": 3,
+    "block": "p",
+    "phase": "solid"
+  }],[{
+    "atomic number z": 17,
+    "symbol": "Cl",
+    "name": "Chlorine",
+    "mass": 35.446,
+    "change": {
+      "melting": 171.6,
+      "boiling": 239.11
+    },
+    "density": {
+      "gas": 3.2,
+      "liquid": 1.5625 
+    },
+    "heat": {
+      "fusion": 6.406,
+      "vaporization": 20.41
+    },
+    "radius": {
+      "covalent": 102,
+      "waals": 175
+    },
+    "state": {
+      "0": -1,
+      "1": 1,
+      "2": 2,
+      "3": 3,
+      "4": 4,
+      "5": 5,
+      "6": 6,
+      "7": 7
+    },
+    "shell": {
+      "0": 2,
+      "1": 8,
+      "2": 7
+    },
+    "config": "3s2_3p5",
+    "ionization": {
+      "0": 1251.2,
+      "1": 2298.0,
+      "2": 3822.0
+    },
+    "pauling": {
+      "0": 3.16
+    },
+    "group": 17,
+    "family": "halogens",
+    "period": 3,
+    "block": "p",
+    "phase": "gas"
+  }],[{
+    "atomic number z": 18,
+    "symbol": "Ar",
+    "name": "Argon",
+    "mass": 39.792,
+    "change": {
+      "melting": 83.81,
+      "boiling": 87.302
+    },
+    "density": {
+      "gas": 1.784,
+      "liquid": 1.3954 
+    },
+    "heat": {
+      "fusion": 1.18,
+      "vaporization": 6.53
+    },
+    "radius": {
+      "covalent": 106,
+      "waals": 188
+    },
+    "state": {
+      "0": 0
+    },
+    "shell": {
+      "0": 2,
+      "1": 8,
+      "2": 8
+    },
+    "config": "3s2_3p6",
+    "ionization": {
+      "0": 1251.2,
+      "1": 2298.0,
+      "2": 3822.0
+    },
+    "pauling": {
+      "0": 0.0
+    },
+    "group": 18,
+    "family": "noble gases",
+    "period": 3,
+    "block": "p",
+    "phase": "gas"
+  }],[{
+    "atomic number z": 19,
+    "symbol": "K",
+    "name": "Potassium",
+    "mass": 39.0983,
+    "change": {
+      "melting": 336.7,
+      "boiling": 1030.793
+    },
+    "density": {
+      "gas": 0.89,
+      "liquid": 0.82948 
+    },
+    "heat": {
+      "fusion": 2.33,
+      "vaporization": 76.9
+    },
+    "radius": {
+      "atomic": 227,
+      "covalent": 203,
+      "waals": 275
+    },
+    "state": {
+      "0": -1,
+      "1": 1
+    },
+    "shell": {
+      "0": 2,
+      "1": 8,
+      "2": 8,
+      "3": 1
+    },
+    "config": "4s",
+    "ionization": {
+      "0": 418.8,
+      "1": 3052.0,
+      "2": 4420.0
+    },
+    "pauling": {
+      "0": 0.82
+    },
+    "group": 1,
+    "family": "hydrogen alkali metals",
+    "period": 4,
+    "block": "s",
+    "phase": "solid"
+  }],[{
+    "atomic number z": 20,
+    "symbol": "Ca",
+    "name": "Calcium",
+    "mass": 40.078,
+    "change": {
+      "melting": 1115.0,
+      "boiling": 1757.0
+    },
+    "density": {
+      "solid": 1.55,
+      "liquid": 1.38
+    },
+    "heat": {
+      "fusion": 8.54,
+      "vaporization": 154.7
+    },
+    "radius": {
+      "atomic": 197,
+      "covalent": 176,
+      "waals": 231
+    },
+    "state": {
+      "0": -1,
+      "1": 2
+    },
+    "shell": {
+      "0": 2,
+      "1": 8,
+      "2": 8,
+      "3": 2
+    },
+    "config": "4s",
+    "ionization": {
+      "0": 589.8,
+      "1": 1145.4,
+      "2": 4912.4
+    },
+    "pauling": {
+      "0": 1.0
+    },
+    "group": 2,
+    "family": "alkaline earth metals",
+    "period": 4,
+    "block": "s",
+    "phase": "solid"
+  }],[{
+    "atomic number z": 21,
+    "symbol": "Sc",
+    "name": "Scandium",
+    "mass": 44.955,
+    "change": {
+      "melting": 1814.0,
+      "boiling": 3109.0
+    },
+    "density": {
+      "solid": 2.985,
+      "liquid": 2.80
+    },
+    "heat": {
+      "fusion": 14.1,
+      "vaporization": 332.7
+    },
+    "radius": {
+      "atomic": 162,
+      "covalent": 170,
+      "waals": 211
+    },
+    "state": {
+      "0": 0,
+      "1": 1,
+      "2": 2,
+      "3": 3
+    },
+    "shell": {
+      "0": 2,
+      "1": 8,
+      "2": 9,
+      "3": 2
+    },
+    "config": "3d1_4s2",
+    "ionization": {
+      "0": 633.1,
+      "1": 1235.0,
+      "2": 2388.6
+    },
+    "pauling": {
+      "0": 1.36
+    },
+    "group": 3,
+    "family": "",
+    "period": 4,
+    "block": "d",
+    "phase": "solid"
+  }],[{
+    "atomic number z": 22,
+    "symbol": "Ti",
+    "name": "Titanium",
+    "mass": 47.867,
+    "change": {
+      "melting": 1941.0,
+      "boiling": 3560.0
+    },
+    "density": {
+      "solid": 4.506,
+      "liquid": 4.11
+    },
+    "heat": {
+      "fusion": 14.15,
+      "vaporization": 425.0
+    },
+    "radius": {
+      "atomic": 147,
+      "covalent": 160
+    },
+    "state": {
+      "0": -2,
+      "1": -1,
+      "2": 0,
+      "3": 1,
+      "4": 2,
+      "5": 3,
+      "6": 4
+    },
+    "shell": {
+      "0": 2,
+      "1": 8,
+      "2": 10,
+      "3": 2
+    },
+    "config": "3d2_4s2",
+    "ionization": {
+      "0": 658.8,
+      "1": 1309.8,
+      "2": 2652.5
+    },
+    "pauling": {
+      "0": 1.54
+    },
+    "group": 4,
+    "family": "",
+    "period": 4,
+    "block": "d",
+    "phase": "solid"
+  }],[{
+    "atomic number z": 23,
+    "symbol": "V",
+    "name": "Vanadium",
+    "mass": 50.9415,
+    "change": {
+      "melting": 2183.0,
+      "boiling": 3680.0
+    },
+    "density": {
+      "solid": 6.11,
+      "liquid": 5.5
+    },
+    "heat": {
+      "fusion": 21.5,
+      "vaporization": 444.0
+    },
+    "radius": {
+      "atomic": 134,
+      "covalent": 153
+    },
+    "state": {
+      "0": -3,
+      "1": -1,
+      "2": 0,
+      "3": 1,
+      "4": 2,
+      "5": 3,
+      "6": 4,
+      "7": 5
+    },
+    "shell": {
+      "0": 2,
+      "1": 8,
+      "2": 11,
+      "3": 2
+    },
+    "config": "3d3_4s2",
+    "ionization": {
+      "0": 650.9,
+      "1": 1414.0,
+      "2": 2830.0
+    },
+    "pauling": {
+      "0": 1.63
+    },
+    "group": 5,
+    "family": "",
+    "period": 4,
+    "block": "d",
+    "phase": "solid"
+  }],[{
+    "atomic number z": 24,
+    "symbol": "Cr",
+    "name": "Chromium",
+    "mass": 51.9961,
+    "change": {
+      "melting": 2180.0,
+      "boiling": 2944.0
+    },
+    "density": {
+      "solid": 7.15,
+      "liquid": 6.3
+    },
+    "heat": {
+      "fusion": 21.0,
+      "vaporization": 347.0
+    },
+    "radius": {
+      "atomic": 128,
+      "covalent": 139
+    },
+    "state": {
+      "0": -4,
+      "1": -2,
+      "2": -1,
+      "3": 0,
+      "4": 1,
+      "5": 2,
+      "6": 3,
+      "7": 4,
+      "8": 5,
+      "9": 6
+    },
+    "shell": {
+      "0": 2,
+      "1": 8,
+      "2": 13,
+      "3": 1
+    },
+    "config": "3d5_4s1",
+    "ionization": {
+      "0": 652.9,
+      "1": 1590.6,
+      "2": 2987.0
+    },
+    "pauling": {
+      "0": 1.66
+    },
+    "group": 6,
+    "family": "",
+    "period": 4,
+    "block": "d",
+    "phase": "solid"
+  }],[{
+    "atomic number z": 25,
+    "symbol": "Mn",
+    "name": "Manganese",
+    "mass": 54.938,
+    "change": {
+      "melting": 1519.0,
+      "boiling": 2334.0
+    },
+    "density": {
+      "solid": 7.21,
+      "liquid": 5.95
+    },
+    "heat": {
+      "fusion": 12.91,
+      "vaporization": 221.0
+    },
+    "radius": {
+      "atomic": 127,
+      "covalent low": 139,
+      "covalent high": 161
+    },
+    "state": {
+      "0": -3,
+      "1": -2,
+      "2": -1,
+      "3": 0,
+      "4": 1,
+      "5": 2,
+      "6": 3,
+      "7": 4,
+      "8": 5,
+      "9": 6,
+      "10": 7
+    },
+    "shell": {
+      "0": 2,
+      "1": 8,
+      "2": 13,
+      "3": 2
+    },
+    "config": "3d5_4s2",
+    "ionization": {
+      "0": 717.3,
+      "1": 1509.0,
+      "2": 3248.0
+    },
+    "pauling": {
+      "0": 1.55
+    },
+    "group": 7,
+    "family": "",
+    "period": 4,
+    "block": "d",
+    "phase": "solid"
+  }],[{
+    "atomic number z": 26,
+    "symbol": "Fe",
+    "name": "Iron",
+    "mass": 55.845,
+    "change": {
+      "melting": 1811.0,
+      "boiling": 3134.0
+    },
+    "density": {
+      "solid": 7.874,
+      "liquid": 6.98
+    },
+    "heat": {
+      "fusion": 13.81,
+      "vaporization": 340.0
+    },
+    "radius": {
+      "atomic": 126,
+      "covalent low": 132,
+      "covalent high": 152,
+      "waals": 194
+    },
+    "state": {
+      "0": -4,
+      "1": -2,
+      "2": -1,
+      "3": 0,
+      "4": 1,
+      "5": 2,
+      "6": 3,
+      "7": 4,
+      "8": 5,
+      "9": 6,
+      "10": 7
+    },
+    "shell": {
+      "0": 2,
+      "1": 8,
+      "2": 14,
+      "3": 2
+    },
+    "config": "3d6_4s2",
+    "ionization": {
+      "0": 762.5,
+      "1": 1561.9,
+      "2": 2957.0
+    },
+    "pauling": {
+      "0": 1.83
+    },
+    "group": 8,
+    "family": "",
+    "period": 4,
+    "block": "d",
+    "phase": "solid"
+  }],[{
+    "atomic number z": 27,
+    "symbol": "Co",
+    "name": "Cobalt",
+    "mass": 58.933,
+    "change": {
+      "melting": 1768.0,
+      "boiling": 3200.0
+    },
+    "density": {
+      "solid": 8.9,
+      "liquid": 8.86
+    },
+    "heat": {
+      "fusion": 16.06,
+      "vaporization": 377.0
+    },
+    "radius": {
+      "atomic": 125,
+      "covalent low": 126,
+      "covalent high": 150
+    },
+    "state": {
+      "0": -3,
+      "1": -1,
+      "2": 0,
+      "3": 1,
+      "4": 2,
+      "5": 3,
+      "6": 4
+    },
+    "shell": {
+      "0": 2,
+      "1": 8,
+      "2": 15,
+      "3": 2
+    },
+    "config": "3d7_4s2",
+    "ionization": {
+      "0": 760.4,
+      "1": 1648.0,
+      "2": 3232.0
+    },
+    "pauling": {
+      "0": 1.88
+    },
+    "group": 9,
+    "family": "",
+    "period": 4,
+    "block": "d",
+    "phase": "solid"
+  }],[{
+    "atomic number z": 28,
+    "symbol": "Ni",
+    "name": "Nickel",
+    "mass": 58.6934,
+    "change": {
+      "melting": 1728.0,
+      "boiling": 3003.0
+    },
+    "density": {
+      "solid": 8.908,
+      "liquid": 7.81
+    },
+    "heat": {
+      "fusion": 17.48,
+      "vaporization": 379.0
+    },
+    "radius": {
+      "atomic": 124,
+      "covalent": 124,
+      "waals": 163
+    },
+    "state": {
+      "0": -2,
+      "1": -1,
+      "2": 0,
+      "3": 1,
+      "4": 2,
+      "5": 3,
+      "6": 4
+    },
+    "shell": {
+      "0": 2,
+      "1": 8,
+      "2": 16,
+      "3": 2,
+      "10": 2,
+      "11": 8,
+      "12": 17,
+      "13": 1
+    },
+    "config": "3d8_4s2_3d9_4s1",
+    "ionization": {
+      "0": 737.1,
+      "1": 1753.0,
+      "2": 3395.0
+    },
+    "pauling": {
+      "0": 1.91
+    },
+    "group": 10,
+    "family": "",
+    "period": 4,
+    "block": "d",
+    "phase": "solid"
+  }],[{
+    "atomic number z": 29,
+    "symbol": "Cu",
+    "name": "Copper",
+    "mass": 63.546,
+    "change": {
+      "melting": 1357.77,
+      "boiling": 2835.0
+    },
+    "density": {
+      "solid": 8.96,
+      "liquid": 8.02
+    },
+    "heat": {
+      "fusion": 13.26,
+      "vaporization": 300.4
+    },
+    "radius": {
+      "atomic": 128,
+      "covalent": 132,
+      "waals": 140
+    },
+    "state": {
+      "0": -2,
+      "1": 0,
+      "2": 1,
+      "3": 2,
+      "4": 3,
+      "5": 4
+    },
+    "shell": {
+      "0": 2,
+      "1": 8,
+      "2": 18,
+      "3": 1
+    },
+    "config": "3d10_4s1",
+    "ionization": {
+      "0": 737.1,
+      "1": 1753.0,
+      "2": 3395.0
+    },
+    "pauling": {
+      "0": 1.91
+    },
+    "group": 11,
+    "family": "",
+    "period": 4,
+    "block": "d",
+    "phase": "solid"
+  }],[{
+    "atomic number z": 30,
+    "symbol": "Zn",
+    "name": "Zinc",
+    "mass": 65.38,
+    "change": {
+      "melting": 692.68,
+      "boiling": 1180.0
+    },
+    "density": {
+      "solid": 7.14,
+      "liquid": 6.57
+    },
+    "heat": {
+      "fusion": 7.32,
+      "vaporization": 115.0
+    },
+    "radius": {
+      "atomic": 134,
+      "covalent": 122,
+      "waals": 139
+    },
+    "state": {
+      "0": -2,
+      "1": 0,
+      "2": 1,
+      "3": 2
+    },
+    "shell": {
+      "0": 2,
+      "1": 8,
+      "2": 18,
+      "3": 2
+    },
+    "config": "3d10_4s2",
+    "ionization": {
+      "0": 906.4,
+      "1": 1733.3,
+      "2": 3833.0
+    },
+    "pauling": {
+      "0": 1.65
+    },
+    "group": 12,
+    "family": "",
+    "period": 4,
+    "block": "d",
+    "phase": "solid"
+  }],[{
+    "atomic number z": 31,
+    "symbol": "Ga",
+    "name": "Gallium",
+    "mass": 69.723,
+    "change": {
+      "melting": 302.9146,
+      "boiling": 2673.0
+    },
+    "density": {
+      "solid": 5.91,
+      "liquid": 6.095
+    },
+    "heat": {
+      "fusion": 5.59,
+      "vaporization": 256.0
+    },
+    "radius": {
+      "atomic": 135,
+      "covalent": 122,
+      "waals": 187
+    },
+    "state": {
+      "0": -5,
+      "1": -4,
+      "2": -3,
+      "3": -2,
+      "4": -1,
+      "5": 0,
+      "6": 1,
+      "7": 2,
+      "8": 3
+    },
+    "shell": {
+      "0": 2,
+      "1": 8,
+      "2": 18,
+      "3": 3
+    },
+    "config": "3d10_4s2_4p1",
+    "ionization": {
+      "0": 578.8,
+      "1": 1779.3,
+      "2": 2963.0
+    },
+    "pauling": {
+      "0": 1.81
+    },
+    "group": 13,
+    "family": "boron group",
+    "period": 4,
+    "block": "p",
+    "phase": "solid"
+  }],[{
+    "atomic number z": 32,
+    "symbol": "Ge",
+    "name": "Germanium",
+    "mass": 72.630,
+    "change": {
+      "melting": 1211.4,
+      "boiling": 3106.0
+    },
+    "density": {
+      "solid": 5.323,
+      "liquid": 5.6
+    },
+    "heat": {
+      "fusion": 36.94,
+      "vaporization": 334.0
+    },
+    "radius": {
+      "atomic": 122,
+      "covalent": 122,
+      "waals": 211
+    },
+    "state": {
+      "0": -4,
+      "1": -3,
+      "2": -2,
+      "3": -1,
+      "4": 0,
+      "5": 1,
+      "6": 2,
+      "7": 3,
+      "8": 4
+    },
+    "shell": {
+      "0": 2,
+      "1": 8,
+      "2": 18,
+      "3": 4
+    },
+    "config": "3d10_4s2_4p2",
+    "ionization": {
+      "0": 762.0,
+      "1": 1537.5,
+      "2": 3302.1
+    },
+    "pauling": {
+      "0": 2.01
+    },
+    "group": 14,
+    "family": "carbon group",
+    "period": 4,
+    "block": "p",
+    "phase": "solid"
+  }],[{
+    "atomic number z": 33,
+    "symbol": "As",
+    "name": "Arsenic",
+    "mass": 74.921,
+    "change": {
+      "sublimation": 887.0
+    },
+    "density": {
+      "solid": 5.727,
+      "liquid": 5.22
+    },
+    "heat": {
+      "fusion grey": 24.44,
+      "vaporization": 34.76
+    },
+    "radius": {
+      "atomic": 119,
+      "covalent": 119,
+      "waals": 185
+    },
+    "state": {
+      "0": -3,
+      "1": -2,
+      "2": -1,
+      "3": 0,
+      "4": 1,
+      "5": 2,
+      "6": 3,
+      "7": 4,
+      "8": 5
+    },
+    "shell": {
+      "0": 2,
+      "1": 8,
+      "2": 18,
+      "3": 5
+    },
+    "config": "3d10_4s2_4p3",
+    "ionization": {
+      "0": 947.0,
+      "1": 1798.0,
+      "2": 2735.0
+    },
+    "pauling": {
+      "0": 2.18
+    },
+    "group": 15,
+    "family": "pnictogens",
+    "period": 4,
+    "block": "p",
+    "phase": "solid"
+  }],[{
+    "atomic number z": 34,
+    "symbol": "Se",
+    "name": "Selenium",
+    "mass": 78.971,
+    "change": {
+      "melting": 494.0,
+      "boiling": 958.0
+    },
+    "density": {
+      "solid gray": 4.81,
+      "solid alpha": 4.39,
+      "solid vitreous": 4.28,
+      "liquid": 3.99
+    },
+    "heat": {
+      "fusion gray": 6.69,
+      "vaporization": 95.48
+    },
+    "radius": {
+      "atomic": 120,
+      "covalent": 120,
+      "waals": 190
+    },
+    "state": {
+      "0": -2,
+      "1": -1,
+      "2": 0,
+      "3": 1,
+      "4": 2,
+      "5": 3,
+      "6": 4,
+      "7": 5,
+      "8": 6
+    },
+    "shell": {
+      "0": 2,
+      "1": 8,
+      "2": 18,
+      "3": 6
+    },
+    "config": "3d10_4s2_4p4",
+    "ionization": {
+      "0": 941.0,
+      "1": 2045.0,
+      "2": 2973.0
+    },
+    "pauling": {
+      "0": 2.55
+    },
+    "group": 16,
+    "family": "chalcogens",
+    "period": 4,
+    "block": "p",
+    "phase": "solid"
+  }],[{
+    "atomic number z": 35,
+    "symbol": "Br",
+    "name": "Bromine",
+    "mass": 79.901,
+    "change": {
+      "melting": 265.8,
+      "boiling": 332.0
+    },
+    "density": {
+      "liquid": 3.1028
+    },
+    "heat": {
+      "fusion": 10.571,
+      "vaporization": 29.96
+    },
+    "radius": {
+      "atomic": 120,
+      "covalent": 120,
+      "waals": 185
+    },
+    "state": {
+      "0": -1,
+      "1": 1,
+      "2": 2,
+      "3": 3,
+      "4": 4,
+      "5": 5,
+      "6": 7
+    },
+    "shell": {
+      "0": 2,
+      "1": 8,
+      "2": 18,
+      "3": 7
+    },
+    "config": "3d10_4s2_4p5",
+    "ionization": {
+      "0": 1139.9,
+      "1": 2103.0,
+      "2": 3470.0
+    },
+    "pauling": {
+      "0": 2.96
+    },
+    "group": 17,
+    "family": "halogens",
+    "period": 4,
+    "block": "p",
+    "phase": "liquid"
+  }],[{
+    "atomic number z": 36,
+    "symbol": "Kr",
+    "name": "Krypton",
+    "mass": 83.718,
+    "change": {
+      "melting": 115.78,
+      "boiling": 119.93
+    },
+    "density": {
+      "gas": 3.749,
+      "liquid": 2.413
+    },
+    "heat": {
+      "fusion": 1.64,
+      "vaporization": 9.08
+    },
+    "radius": {
+      "covalent": 116,
+      "waals": 202
+    },
+    "state": {
+      "0": 0,
+      "1": 1,
+      "2": 2
+    },
+    "shell": {
+      "0": 2,
+      "1": 8,
+      "2": 18,
+      "3": 8
+    },
+    "config": "3d10_4s2_4p6",
+    "ionization": {
+      "0": 1350.8,
+      "1": 2350.4,
+      "2": 3565.0
+    },
+    "pauling": {
+      "0": 2.96
+    },
+    "group": 18,
+    "family": "noble gases",
+    "period": 4,
+    "block": "p",
+    "phase": "gas"
+  }],[{
+    "atomic number z": 37,
+    "symbol": "Rb",
+    "name": "Rubidium",
+    "mass": 85.4678,
+    "change": {
+      "melting": 312.45,
+      "boiling": 961.0
+    },
+    "density": {
+      "solid": 1.532,
+      "liquid": 1.46
+    },
+    "heat": {
+      "fusion": 2.19,
+      "vaporization": 69.0
+    },
+    "radius": {
+      "atomic": 248,
+      "covalent": 220,
+      "waals": 303
+    },
+    "state": {
+      "0": -1,
+      "1": 1
+    },
+    "shell": {
+      "0": 2,
+      "1": 8,
+      "2": 18,
+      "3": 8,
+      "4": 1
+    },
+    "config": "5s1",
+    "ionization": {
+      "0": 403.0,
+      "1": 2632.1,
+      "2": 3859.4
+    },
+    "pauling": {
+      "0": 0.82
+    },
+    "group": 1,
+    "family": "hydrogen alkali metals",
+    "period": 5,
+    "block": "s",
+    "phase": "solid"
+  }],[{
+    "atomic number z": 38,
+    "symbol": "Sr",
+    "name": "Strontium",
+    "mass": 87.62,
+    "change": {
+      "melting": 1050.0,
+      "boiling": 1650.0
+    },
+    "density": {
+      "solid": 2.64,
+      "liquid": 2.375
+    },
+    "heat": {
+      "fusion": 7.43,
+      "vaporization": 141.0
+    },
+    "radius": {
+      "atomic": 215,
+      "covalent": 195,
+      "waals": 249
+    },
+    "state": {
+      "0": 1,
+      "1": 2
+    },
+    "shell": {
+      "0": 2,
+      "1": 8,
+      "2": 18,
+      "3": 8,
+      "4": 2
+    },
+    "config": "5s2",
+    "ionization": {
+      "0": 549.5,
+      "1": 1064.2,
+      "2": 4138.0
+    },
+    "pauling": {
+      "0": 0.95
+    },
+    "group": 2,
+    "family": "alkaline earth metals",
+    "period": 5,
+    "block": "s",
+    "phase": "solid"
+  }],[{
+    "atomic number z": 39,
+    "symbol": "Y",
+    "name": "Yttrium",
+    "mass": 88.905,
+    "change": {
+      "melting": 1799.0,
+      "boiling": 3203.0
+    },
+    "density": {
+      "solid": 4.472,
+      "liquid": 4.24
+    },
+    "heat": {
+      "fusion": 11.42,
+      "vaporization": 363.0
+    },
+    "radius": {
+      "atomic": 180,
+      "covalent": 190
+    },
+    "state": {
+      "0": 0,
+      "1": 1,
+      "2": 2,
+      "3": 3
+    },
+    "shell": {
+      "0": 2,
+      "1": 8,
+      "2": 18,
+      "3": 9,
+      "4": 2
+    },
+    "config": "4d1_5s2",
+    "ionization": {
+      "0": 600.0,
+      "1": 1180.0,
+      "2": 1980.0
+    },
+    "pauling": {
+      "0": 1.22
+    },
+    "group": 3,
+    "family": "",
+    "period": 5,
+    "block": "d",
+    "phase": "solid"
+  }],[{
+    "atomic number z": 40,
+    "symbol": "Zr",
+    "name": "Zirconium",
+    "mass": 91.224,
+    "change": {
+      "melting": 2125.0,
+      "boiling": 4650.0
+    },
+    "density": {
+      "solid": 6.52,
+      "liquid": 5.8
+    },
+    "heat": {
+      "fusion": 14.0,
+      "vaporization": 591.0
+    },
+    "radius": {
+      "atomic": 160,
+      "covalent": 175
+    },
+    "state": {
+      "0": -2,
+      "1": 0,
+      "2": 1,
+      "3": 2,
+      "4": 3,
+      "5": 4
+    },
+    "shell": {
+      "0": 2,
+      "1": 8,
+      "2": 18,
+      "3": 10,
+      "4": 2
+    },
+    "config": "4d2_5s2",
+    "ionization": {
+      "0": 640.1,
+      "1": 1270.0,
+      "2": 2218.0
+    },
+    "pauling": {
+      "0": 1.33
+    },
+    "group": 4,
+    "family": "",
+    "period": 5,
+    "block": "d",
+    "phase": "solid"
+  }],[{
+    "atomic number z": 41,
+    "symbol": "Nb",
+    "name": "Niobium",
+    "mass": 92.906,
+    "change": {
+      "melting": 2750.0,
+      "boiling": 5017.0
+    },
+    "density": {
+      "solid": 8.57
+    },
+    "heat": {
+      "fusion": 30.0,
+      "vaporization": 689.9
+    },
+    "radius": {
+      "atomic": 146,
+      "covalent": 164
+    },
+    "state": {
+      "0": -3,
+      "1": -1,
+      "2": 0,
+      "3": 1,
+      "4": 2,
+      "5": 3,
+      "6": 4,
+      "7": 5
+    },
+    "shell": {
+      "0": 2,
+      "1": 8,
+      "2": 18,
+      "3": 12,
+      "4": 1
+    },
+    "config": "4d4_5s1",
+    "ionization": {
+      "0": 652.1,
+      "1": 1380.0,
+      "2": 2416.0
+    },
+    "pauling": {
+      "0": 1.6
+    },
+    "group": 5,
+    "family": "",
+    "period": 5,
+    "block": "d",
+    "phase": "solid"
+  }],[{
+    "atomic number z": 42,
+    "symbol": "Mo",
+    "name": "Molybdenum",
+    "mass": 95.95,
+    "change": {
+      "melting": 2896.0,
+      "boiling": 4912.0
+    },
+    "density": {
+      "solid": 10.28,
+      "liquid": 9.33
+    },
+    "heat": {
+      "fusion": 37.48,
+      "vaporization": 598.0
+    },
+    "radius": {
+      "atomic": 139,
+      "covalent": 144
+    },
+    "state": {
+      "0": -4,
+      "1": -2,
+      "2": -1,
+      "3": 0,
+      "4": 1,
+      "5": 2,
+      "6": 3,
+      "7": 4,
+      "8": 5,
+      "9": 6
+    },
+    "shell": {
+      "0": 2,
+      "1": 8,
+      "2": 18,
+      "3": 13,
+      "4": 1
+    },
+    "config": "4d5_5s1",
+    "ionization": {
+      "0": 684.3,
+      "1": 1560.0,
+      "2": 2618.0
+    },
+    "pauling": {
+      "0": 2.16
+    },
+    "group": 6,
+    "family": "",
+    "period": 5,
+    "block": "d",
+    "phase": "solid"
+  }],[{
+    "atomic number z": 43,
+    "symbol": "Tc",
+    "name": "Technetium",
+    "mass": 98.0,
+    "change": {
+      "melting": 2430.0,
+      "boiling": 4538.0
+    },
+    "density": {
+      "solid": 11.0
+    },
+    "heat": {
+      "fusion": 33.29,
+      "vaporization": 585.2
+    },
+    "radius": {
+      "atomic": 136,
+      "covalent": 147,
+      "waals": 205
+    },
+    "state": {
+      "0": -3,
+      "1": -1,
+      "2": 0,
+      "3": 1,
+      "4": 2,
+      "5": 3,
+      "6": 4,
+      "7": 5,
+      "8": 6,
+      "9": 7
+    },
+    "shell": {
+      "0": 2,
+      "1": 8,
+      "2": 18,
+      "3": 13,
+      "4": 2
+    },
+    "config": "4d5_5s2",
+    "ionization": {
+      "0": 702.0,
+      "1": 1470.0,
+      "2": 2850.0
+    },
+    "pauling": {
+      "0": 1.9
+    },
+    "group": 7,
+    "family": "",
+    "period": 5,
+    "block": "d",
+    "phase": "solid"
+  }],[{
+    "atomic number z": 44,
+    "symbol": "Ru",
+    "name": "Ruthenium",
+    "mass": 101.07,
+    "change": {
+      "melting": 2607.0,
+      "boiling": 4423.0
+    },
+    "density": {
+      "solid": 12.45,
+      "liquid": 10.65
+    },
+    "heat": {
+      "fusion": 38.59,
+      "vaporization": 619.0
+    },
+    "radius": {
+      "atomic": 134,
+      "covalent": 146
+    },
+    "state": {
+      "0": -4,
+      "1": -2,
+      "2": 0,
+      "3": 1,
+      "4": 2,
+      "5": 3,
+      "6": 4,
+      "7": 5,
+      "8": 6,
+      "9": 7
+    },
+    "shell": {
+      "0": 2,
+      "1": 8,
+      "2": 18,
+      "3": 15,
+      "4": 1
+    },
+    "config": "4d7_5s1",
+    "ionization": {
+      "0": 710.2,
+      "1": 1620.0,
+      "2": 2747.0
+    },
+    "pauling": {
+      "0": 2.2
+    },
+    "group": 8,
+    "family": "",
+    "period": 5,
+    "block": "d",
+    "phase": "solid"
+  }],[{
+    "atomic number z": 45,
+    "symbol": "Rh",
+    "name": "Rhodium",
+    "mass": 102.905,
+    "change": {
+      "melting": 2237.0,
+      "boiling": 4968.0
+    },
+    "density": {
+      "solid": 12.41,
+      "liquid": 10.7
+    },
+    "heat": {
+      "fusion": 26.59,
+      "vaporization": 493.0
+    },
+    "radius": {
+      "atomic": 134,
+      "covalent": 142
+    },
+    "state": {
+      "0": -3,
+      "1": -1,
+      "2": 0,
+      "3": 1,
+      "4": 2,
+      "5": 3,
+      "6": 4,
+      "7": 5,
+      "8": 6,
+      "9": 7
+    },
+    "shell": {
+      "0": 2,
+      "1": 8,
+      "2": 18,
+      "3": 16,
+      "4": 1
+    },
+    "config": "4d8_5s1",
+    "ionization": {
+      "0": 710.2,
+      "1": 1620.0,
+      "2": 2747.0
+    },
+    "pauling": {
+      "0": 2.28
+    },
+    "group": 9,
+    "family": "",
+    "period": 5,
+    "block": "d",
+    "phase": "solid"
+  }],[{
+    "atomic number z": 46,
+    "symbol": "Pd",
+    "name": "Palladium",
+    "mass": 106.42,
+    "change": {
+      "melting": 1828.05,
+      "boiling": 3236.0
+    },
+    "density": {
+      "solid": 12.023,
+      "liquid": 10.38
+    },
+    "heat": {
+      "fusion": 16.74,
+      "vaporization": 358.0
+    },
+    "radius": {
+      "atomic": 137,
+      "covalent": 139,
+      "waals": 163
+    },
+    "state": {
+      "0": 0,
+      "1": 1,
+      "2": 2,
+      "3": 3,
+      "4": 4,
+      "5": 5
+    },
+    "shell": {
+      "0": 2,
+      "1": 8,
+      "2": 18,
+      "3": 18,
+      "4": 0
+    },
+    "config": "4d10",
+    "ionization": {
+      "0": 804.4,
+      "1": 1870.0,
+      "2": 3177.0
+    },
+    "pauling": {
+      "0": 2.2
+    },
+    "group": 10,
+    "family": "",
+    "period": 5,
+    "block": "d",
+    "phase": "solid"
+  }],[{
+    "atomic number z": 47,
+    "symbol": "Ag",
+    "name": "Silver",
+    "mass": 107.8682,
+    "change": {
+      "melting": 1234.96,
+      "boiling": 2435.0
+    },
+    "density": {
+      "solid": 10.49,
+      "liquid": 9.320
+    },
+    "heat": {
+      "fusion": 11.28,
+      "vaporization": 254.0
+    },
+    "radius": {
+      "atomic": 144,
+      "covalent": 145,
+      "waals": 172
+    },
+    "state": {
+      "0": -2,
+      "1": -1,
+      "2": 0,
+      "3": 1,
+      "4": 2,
+      "5": 3
+    },
+    "shell": {
+      "0": 2,
+      "1": 8,
+      "2": 18,
+      "3": 18,
+      "4": 1
+    },
+    "config": "4d10_5s1",
+    "ionization": {
+      "0": 731.0,
+      "1": 2070.0,
+      "2": 3361.0
+    },
+    "pauling": {
+      "0": 1.93
+    },
+    "group": 11,
+    "family": "",
+    "period": 5,
+    "block": "d",
+    "phase": "solid"
+  }],[{
+    "atomic number z": 48,
+    "symbol": "Cd",
+    "name": "Cadmium",
+    "mass": 112.414,
+    "change": {
+      "melting": 594.22,
+      "boiling": 1040.0
+    },
+    "density": {
+      "solid": 8.65,
+      "liquid": 7.996
+    },
+    "heat": {
+      "fusion": 6.21,
+      "vaporization": 99.87
+    },
+    "radius": {
+      "atomic": 151,
+      "covalent": 144,
+      "waals": 158
+    },
+    "state": {
+      "0": -2,
+      "1": 1,
+      "2": 2
+    },
+    "shell": {
+      "0": 2,
+      "1": 8,
+      "2": 18,
+      "3": 18,
+      "4": 2
+    },
+    "config": "4d10_5s2",
+    "ionization": {
+      "0": 867.8,
+      "1": 1631.4,
+      "2": 3616.0
+    },
+    "pauling": {
+      "0": 1.69
+    },
+    "group": 12,
+    "family": "",
+    "period": 5,
+    "block": "d",
+    "phase": "solid"
+  }],[{
+    "atomic number z": 49,
+    "symbol": "In",
+    "name": "Indium",
+    "mass": 114.818,
+    "change": {
+      "melting": 429.7485,
+      "boiling": 2345.0
+    },
+    "density": {
+      "solid": 7.31,
+      "liquid": 7.02
+    },
+    "heat": {
+      "fusion": 3.281,
+      "vaporization": 231.8
+    },
+    "radius": {
+      "atomic": 167,
+      "covalent": 142,
+      "waals": 193
+    },
+    "state": {
+      "0": -5,
+      "1": -2,
+      "2": -1,
+      "3": 0,
+      "4": 1,
+      "5": 2,
+      "6": 3
+    },
+    "shell": {
+      "0": 2,
+      "1": 8,
+      "2": 18,
+      "3": 18,
+      "4": 3
+    },
+    "config": "4d10_5s2_5p1",
+    "ionization": {
+      "0": 558.3,
+      "1": 1820.7,
+      "2": 2704.0
+    },
+    "pauling": {
+      "0": 1.78
+    },
+    "group": 13,
+    "family": "boron group",
+    "period": 5,
+    "block": "p",
+    "phase": "solid"
+  }],[{
+    "atomic number z": 50,
+    "symbol": "Sn",
+    "name": "Tin",
+    "mass": 118.710,
+    "change": {
+      "melting": 505.08,
+      "boiling": 2875.0
+    },
+    "density": {
+      "solid white": 7.265,
+      "solid gray": 5.769,
+      "liquid": 6.99
+    },
+    "heat": {
+      "fusion white": 7.03,
+      "vaporization white": 296.1
+    },
+    "radius": {
+      "atomic": 140,
+      "covalent": 139,
+      "waals": 217
+    },
+    "state": {
+      "0": -4,
+      "1": -3,
+      "2": -2,
+      "3": -1,
+      "4": 0,
+      "5": 1,
+      "6": 2,
+      "7": 3,
+      "8": 4
+    },
+    "shell": {
+      "0": 2,
+      "1": 8,
+      "2": 18,
+      "3": 18,
+      "4": 4
+    },
+    "config": "4d10_5s2_5p2",
+    "ionization": {
+      "0": 708.6,
+      "1": 1411.8,
+      "2": 2943.0
+    },
+    "pauling": {
+      "0": 1.96
+    },
+    "group": 14,
+    "family": "carbon group",
+    "period": 5,
+    "block": "p",
+    "phase": "solid"
+  }],[{
+    "atomic number z": 51,
+    "symbol": "Sb",
+    "name": "Antimony",
+    "mass": 121.760,
+    "change": {
+      "melting": 903.78,
+      "boiling": 1908.0
+    },
+    "density": {
+      "solid": 6.697,
+      "liquid": 6.53
+    },
+    "heat": {
+      "fusion white": 19.79,
+      "vaporization white": 193.43
+    },
+    "radius": {
+      "atomic": 140,
+      "covalent": 139,
+      "waals": 206
+    },
+    "state": {
+      "0": -3,
+      "1": -2,
+      "2": -1,
+      "3": 0,
+      "4": 1,
+      "5": 2,
+      "6": 3,
+      "7": 4,
+      "8": 5
+    },
+    "shell": {
+      "0": 2,
+      "1": 8,
+      "2": 18,
+      "3": 18,
+      "4": 5
+    },
+    "config": "4d10_5s2_5p3",
+    "ionization": {
+      "0": 834.0,
+      "1": 1594.9,
+      "2": 2440.0
+    },
+    "pauling": {
+      "0": 2.05
+    },
+    "group": 15,
+    "family": "pnictogens",
+    "period": 5,
+    "block": "p",
+    "phase": "solid"
+  }],[{
+    "atomic number z": 52,
+    "symbol": "Te",
+    "name": "Tellurium",
+    "mass": 127.6,
+    "change": {
+      "melting": 722.66,
+      "boiling": 1261.0
+    },
+    "density": {
+      "solid": 6.24,
+      "liquid": 5.7
+    },
+    "heat": {
+      "fusion": 17.49,
+      "vaporization": 114.1
+    },
+    "radius": {
+      "atomic": 140,
+      "covalent": 138,
+      "waals": 206
+    },
+    "state": {
+      "0": -2,
+      "1": -1,
+      "2": 0,
+      "3": 1,
+      "4": 2,
+      "5": 3,
+      "6": 4,
+      "7": 5,
+      "8": 6
+    },
+    "shell": {
+      "0": 2,
+      "1": 8,
+      "2": 18,
+      "3": 18,
+      "4": 6
+    },
+    "config": "4d10_5s2_5p4",
+    "ionization": {
+      "0": 869.3,
+      "1": 1790.0,
+      "2": 2698.0
+    },
+    "pauling": {
+      "0": 2.1
+    },
+    "group": 16,
+    "family": "chalcogens",
+    "period": 5,
+    "block": "p",
+    "phase": "solid"
+  }],[{
+    "atomic number z": 53,
+    "symbol": "I",
+    "name": "Iodine",
+    "mass": 126.904,
+    "change": {
+      "melting": 386.85,
+      "boiling": 457.4
+    },
+    "density": {
+      "solid": 4.933
+    },
+    "heat": {
+      "fusion": 15.52,
+      "vaporization": 41.57
+    },
+    "radius": {
+      "atomic": 140,
+      "covalent": 139,
+      "waals": 198
+    },
+    "state": {
+      "0": -1,
+      "1": 1,
+      "2": 2,
+      "3": 3,
+      "4": 4,
+      "5": 5,
+      "6": 6,
+      "7": 7
+    },
+    "shell": {
+      "0": 2,
+      "1": 8,
+      "2": 18,
+      "3": 18,
+      "4": 7
+    },
+    "config": "4d10_5s2_5p5",
+    "ionization": {
+      "0": 1008.4,
+      "1": 1845.9,
+      "2": 3180.0
+    },
+    "pauling": {
+      "0": 2.66
+    },
+    "group": 17,
+    "family": "chalcogens",
+    "period": 5,
+    "block": "p",
+    "phase": "solid"
+  }],[{
+    "atomic number z": 54,
+    "symbol": "Xe",
+    "name": "Xenon",
+    "mass": 131.293,
+    "change": {
+      "melting": 161.4,
+      "boiling": 165.578
+    },
+    "density": {
+      "solid": 5.894,
+      "liquid": 2.942
+    },
+    "heat": {
+      "fusion": 2.27,
+      "vaporization": 12.64
+    },
+    "radius": {
+      "covalent": 140,
+      "waals": 216
+    },
+    "state": {
+      "0": 0,
+      "1": 2,
+      "2": 4,
+      "3": 6,
+      "4": 8
+    },
+    "shell": {
+      "0": 2,
+      "1": 8,
+      "2": 18,
+      "3": 18,
+      "4": 8
+    },
+    "config": "4d10_5s2_5p6",
+    "ionization": {
+      "0": 1170.4,
+      "1": 2046.4,
+      "2": 3099.4
+    },
+    "pauling": {
+      "0": 2.6
+    },
+    "group": 18,
+    "family": "noble gases",
+    "period": 5,
+    "block": "p",
+    "phase": "gas"
+  }],[{
+    "atomic number z": 55,
+    "symbol": "Cs",
+    "name": "Caesium",
+    "mass": 132.905,
+    "change": {
+      "melting": 301.7,
+      "boiling": 944.0
+    },
+    "density": {
+      "solid": 1.93,
+      "liquid": 1.843
+    },
+    "heat": {
+      "fusion": 2.09,
+      "vaporization": 63.9
+    },
+    "radius": {
+      "atomic": 265,
+      "covalent": 244,
+      "waals": 343
+    },
+    "state": {
+      "0": -1,
+      "1": 1
+    },
+    "shell": {
+      "0": 2,
+      "1": 8,
+      "2": 18,
+      "3": 18,
+      "4": 8,
+      "5": 1
+    },
+    "config": "6s1",
+    "ionization": {
+      "0": 375.7,
+      "1": 2234.3,
+      "2": 3400.0
+    },
+    "pauling": {
+      "0": 0.79
+    },
+    "group": 1,
+    "family": "hydrogen alkali metals",
+    "period": 6,
+    "block": "s",
+    "phase": "solid"
+  }],[{
+    "atomic number z": 56,
+    "symbol": "Ba",
+    "name": "Barium",
+    "mass": 132.327,
+    "change": {
+      "melting": 1000.0,
+      "boiling": 2118.0
+    },
+    "density": {
+      "solid": 3.51,
+      "liquid": 3.338
+    },
+    "heat": {
+      "fusion": 7.12,
+      "vaporization": 142.0
+    },
+    "radius": {
+      "atomic": 222,
+      "covalent": 215,
+      "waals": 268
+    },
+    "state": {
+      "0": 1,
+      "1": 2
+    },
+    "shell": {
+      "0": 2,
+      "1": 8,
+      "2": 18,
+      "3": 18,
+      "4": 8,
+      "5": 2
+    },
+    "config": "6s2",
+    "ionization": {
+      "0": 502.9,
+      "1": 965.2,
+      "2": 3600.0
+    },
+    "pauling": {
+      "0": 0.89
+    },
+    "group": 2,
+    "family": "alkaline earth metals",
+    "period": 6,
+    "block": "s",
+    "phase": "solid"
+  }],[{
+    "atomic number z": 57,
+    "symbol": "La",
+    "name": "Lanthanum",
+    "mass": 138.905,
+    "change": {
+      "melting": 1193.0,
+      "boiling": 3737.0
+    },
+    "density": {
+      "solid": 6.162,
+      "liquid": 5.94
+    },
+    "heat": {
+      "fusion": 6.2,
+      "vaporization": 400.0
+    },
+    "radius": {
+      "atomic": 187,
+      "covalent": 207
+    },
+    "state": {
+      "0": 0,
+      "1": 1,
+      "2": 2,
+      "3": 3
+    },
+    "shell": {
+      "0": 2,
+      "1": 8,
+      "2": 18,
+      "3": 18,
+      "4": 9,
+      "5": 2
+    },
+    "config": "5d1_6s2",
+    "ionization": {
+      "0": 538.1,
+      "1": 1067,
+      "2": 1850.3
+    },
+    "pauling": {
+      "0": 1.1
+    },
+    "group": -1,
+    "family": "lanthanid",
+    "period": 6,
+    "block": "f",
+    "phase": "solid"
+  }],[{
+    "atomic number z": 58,
+    "symbol": "Ce",
+    "name": "Cerium",
+    "mass": 140.116,
+    "change": {
+      "melting": 1068.0,
+      "boiling": 3716.0
+    },
+    "density": {
+      "solid": 6.770,
+      "liquid": 6.55
+    },
+    "heat": {
+      "fusion": 5.46,
+      "vaporization": 398.0
+    },
+    "radius": {
+      "atomic": 182,
+      "covalent": 204
+    },
+    "state": {
+      "0": 1,
+      "1": 2,
+      "2": 3,
+      "3": 4
+    },
+    "shell": {
+      "0": 2,
+      "1": 8,
+      "2": 18,
+      "3": 19,
+      "4": 9,
+      "5": 2
+    },
+    "config": "4f1_5d1_6s2",
+    "ionization": {
+      "0": 534.4,
+      "1": 1050.0,
+      "2": 1949.0
+    },
+    "pauling": {
+      "0": 1.12
+    },
+    "group": -1,
+    "family": "lanthanid",
+    "period": 6,
+    "block": "f",
+    "phase": "solid"
+  }],[{
+    "atomic number z": 59,
+    "symbol": "Pr",
+    "name": "Praseodymium",
+    "mass": 140.907,
+    "change": {
+      "melting": 1208.0,
+      "boiling": 3403.0
+    },
+    "density": {
+      "solid": 6.77,
+      "liquid": 6.50
+    },
+    "heat": {
+      "fusion": 6.89,
+      "vaporization": 331.0
+    },
+    "radius": {
+      "atomic": 182,
+      "covalent": 203
+    },
+    "state": {
+      "0": 0,
+      "1": 1,
+      "2": 2,
+      "3": 3,
+      "4": 4,
+      "5": 5
+    },
+    "shell": {
+      "0": 2,
+      "1": 8,
+      "2": 18,
+      "3": 21,
+      "4": 8,
+      "5": 2
+    },
+    "config": "4f3_6s2",
+    "ionization": {
+      "0": 527.0,
+      "1": 1020.0,
+      "2": 2086.0
+    },
+    "pauling": {
+      "0": 1.13
+    },
+    "group": -1,
+    "family": "lanthanid",
+    "period": 6,
+    "block": "f",
+    "phase": "solid"
+  }],[{
+    "atomic number z": 60,
+    "symbol": "Nd",
+    "name": "Neodymium",
+    "mass": 144.242,
+    "change": {
+      "melting": 1297.0,
+      "boiling": 3347.0
+    },
+    "density": {
+      "solid": 7.01,
+      "liquid": 6.89
+    },
+    "heat": {
+      "fusion": 7.14,
+      "vaporization": 289.0
+    },
+    "radius": {
+      "atomic": 181,
+      "covalent": 201
+    },
+    "state": {
+      "0": 0,
+      "1": 2,
+      "2": 3,
+      "3": 4
+    },
+    "shell": {
+      "0": 2,
+      "1": 8,
+      "2": 18,
+      "3": 22,
+      "4": 8,
+      "5": 2
+    },
+    "config": "4f4_6s2",
+    "ionization": {
+      "0": 533.1,
+      "1": 1040.0,
+      "2": 2130.0
+    },
+    "pauling": {
+      "0": 1.14
+    },
+    "group": -1,
+    "family": "lanthanid",
+    "period": 6,
+    "block": "f",
+    "phase": "solid"
+  }],[{
+    "atomic number z": 61,
+    "symbol": "Pm",
+    "name": "Promethium",
+    "mass": 145.0,
+    "change": {
+      "melting": 1315.0,
+      "boiling": 3273.0
+    },
+    "density": {
+      "solid": 7.26
+    },
+    "heat": {
+      "fusion": 7.13,
+      "vaporization": 289.0
+    },
+    "radius": {
+      "atomic": 183,
+      "covalent": 199
+    },
+    "state": {
+      "0": 2,
+      "1": 3
+    },
+    "shell": {
+      "0": 2,
+      "1": 8,
+      "2": 18,
+      "3": 23,
+      "4": 8,
+      "5": 2
+    },
+    "config": "4f5_6s2",
+    "ionization": {
+      "0": 540.0,
+      "1": 1050.0,
+      "2": 2150.0
+    },
+    "pauling": {
+      "0": 1.13
+    },
+    "group": -1,
+    "family": "lanthanid",
+    "period": 6,
+    "block": "f",
+    "phase": "solid"
+  }],[{
+    "atomic number z": 62,
+    "symbol": "Sm",
+    "name": "Samarium",
+    "mass": 150.36,
+    "change": {
+      "melting": 1345.0,
+      "boiling": 2173.0
+    },
+    "density": {
+      "solid": 7.52,
+      "liquid": 7.16
+    },
+    "heat": {
+      "fusion": 8.62,
+      "vaporization": 192.0
+    },
+    "radius": {
+      "atomic": 180,
+      "covalent": 198
+    },
+    "state": {
+      "0": 0,
+      "1": 1,
+      "2": 2,
+      "3": 3
+    },
+    "shell": {
+      "0": 2,
+      "1": 8,
+      "2": 18,
+      "3": 24,
+      "4": 8,
+      "5": 2
+    },
+    "config": "4f6_6s2",
+    "ionization": {
+      "0": 544.5,
+      "1": 1070.0,
+      "2": 2260.0
+    },
+    "pauling": {
+      "0": 1.17
+    },
+    "group": -1,
+    "family": "lanthanid",
+    "period": 6,
+    "block": "f",
+    "phase": "solid"
+  }],[{
+    "atomic number z": 63,
+    "symbol": "Eu",
+    "name": "Europium",
+    "mass": 151.964,
+    "change": {
+      "melting": 1099.0,
+      "boiling": 1802.0
+    },
+    "density": {
+      "solid": 5.244,
+      "liquid": 5.13
+    },
+    "heat": {
+      "fusion": 9.21,
+      "vaporization": 176.0
+    },
+    "radius": {
+      "atomic": 180,
+      "covalent": 198
+    },
+    "state": {
+      "0": 0,
+      "1": 2,
+      "2": 3
+    },
+    "shell": {
+      "0": 2,
+      "1": 8,
+      "2": 18,
+      "3": 25,
+      "4": 8,
+      "5": 2
+    },
+    "config": "4f7_6s2",
+    "ionization": {
+      "0": 547.1,
+      "1": 1085.0,
+      "2": 2404.0
+    },
+    "pauling": {
+      "0": 1.2
+    },
+    "group": -1,
+    "family": "lanthanid",
+    "period": 6,
+    "block": "f",
+    "phase": "solid"
+  }],[{
+    "atomic number z": 64,
+    "symbol": "Gd",
+    "name": "Gadolinium",
+    "mass": 157.25,
+    "change": {
+      "melting": 1585.0,
+      "boiling": 3273.0
+    },
+    "density": {
+      "solid": 7.9,
+      "liquid": 7.4
+    },
+    "heat": {
+      "fusion": 10.05,
+      "vaporization": 301.3
+    },
+    "radius": {
+      "atomic": 180,
+      "covalent": 196
+    },
+    "state": {
+      "0": 0,
+      "1": 1,
+      "2": 2,
+      "3": 3
+    },
+    "shell": {
+      "0": 2,
+      "1": 8,
+      "2": 18,
+      "3": 25,
+      "4": 9,
+      "5": 2
+    },
+    "config": "4f7_5d1_6s2",
+    "ionization": {
+      "0": 593.4,
+      "1": 1170.0,
+      "2": 1990.0
+    },
+    "pauling": {
+      "0": 1.2
+    },
+    "group": -1,
+    "family": "lanthanid",
+    "period": 6,
+    "block": "f",
+    "phase": "solid"
+  }],[{
+    "atomic number z": 65,
+    "symbol": "Tb",
+    "name": "Terbium",
+    "mass": 158.925,
+    "change": {
+      "melting": 1629.0,
+      "boiling": 3396.0
+    },
+    "density": {
+      "solid": 8.23,
+      "liquid": 7.65
+    },
+    "heat": {
+      "fusion": 10.15,
+      "vaporization": 391.0
+    },
+    "radius": {
+      "atomic": 177,
+      "covalent": 194
+    },
+    "state": {
+      "0": 0,
+      "1": 1,
+      "2": 2,
+      "3": 3,
+      "4": 4
+    },
+    "shell": {
+      "0": 2,
+      "1": 8,
+      "2": 18,
+      "3": 27,
+      "4": 8,
+      "5": 2
+    },
+    "config": "4f9_6s2",
+    "ionization": {
+      "0": 565.8,
+      "1": 1110.0,
+      "2": 2114.0
+    },
+    "pauling": {
+      "0": 1.2
+    },
+    "group": -1,
+    "family": "lanthanid",
+    "period": 6,
+    "block": "f",
+    "phase": "solid"
+  }],[{
+    "atomic number z": 66,
+    "symbol": "Dy",
+    "name": "Dysprosium",
+    "mass": 162.5,
+    "change": {
+      "melting": 1680.0,
+      "boiling": 2840.0
+    },
+    "density": {
+      "solid": 8.54,
+      "liquid": 8.37
+    },
+    "heat": {
+      "fusion": 11.06,
+      "vaporization": 280.0
+    },
+    "radius": {
+      "atomic": 178,
+      "covalent": 192
+    },
+    "state": {
+      "0": 0,
+      "1": 1,
+      "2": 2,
+      "3": 3,
+      "4": 4
+    },
+    "shell": {
+      "0": 2,
+      "1": 8,
+      "2": 18,
+      "3": 28,
+      "4": 8,
+      "5": 2
+    },
+    "config": "4f10_6s2",
+    "ionization": {
+      "0": 573.0,
+      "1": 1130.0,
+      "2": 2200.0
+    },
+    "pauling": {
+      "0": 1.22
+    },
+    "group": -1,
+    "family": "lanthanid",
+    "period": 6,
+    "block": "f",
+    "phase": "solid"
+  }],[{
+    "atomic number z": 67,
+    "symbol": "Ho",
+    "name": "Holmium",
+    "mass": 164.930,
+    "change": {
+      "melting": 1734.0,
+      "boiling": 2873.0
+    },
+    "density": {
+      "solid": 8.79,
+      "liquid": 8.34
+    },
+    "heat": {
+      "fusion": 17.0,
+      "vaporization": 251.0
+    },
+    "radius": {
+      "atomic": 176,
+      "covalent": 192
+    },
+    "state": {
+      "0": 0,
+      "1": 1,
+      "2": 2,
+      "3": 3
+    },
+    "shell": {
+      "0": 2,
+      "1": 8,
+      "2": 18,
+      "3": 29,
+      "4": 8,
+      "5": 2
+    },
+    "config": "4f11_6s2",
+    "ionization": {
+      "0": 581.0,
+      "1": 1140.0,
+      "2": 2204.0
+    },
+    "pauling": {
+      "0": 1.23
+    },
+    "group": -1,
+    "family": "lanthanid",
+    "period": 6,
+    "block": "f",
+    "phase": "solid"
+  }],[{
+    "atomic number z": 68,
+    "symbol": "Er",
+    "name": "Erbium",
+    "mass": 167.259,
+    "change": {
+      "melting": 1802.0,
+      "boiling": 3141.0
+    },
+    "density": {
+      "solid": 9.066,
+      "liquid": 8.86
+    },
+    "heat": {
+      "fusion": 19.9,
+      "vaporization": 280.0
+    },
+    "radius": {
+      "atomic": 176,
+      "covalent": 189
+    },
+    "state": {
+      "0": 0,
+      "1": 1,
+      "2": 2,
+      "3": 3
+    },
+    "shell": {
+      "0": 2,
+      "1": 8,
+      "2": 18,
+      "3": 30,
+      "4": 8,
+      "5": 2
+    },
+    "config": "4f12_6s2",
+    "ionization": {
+      "0": 589.3,
+      "1": 1150.0,
+      "2": 2194.0
+    },
+    "pauling": {
+      "0": 1.24
+    },
+    "group": -1,
+    "family": "lanthanid",
+    "period": 6,
+    "block": "f",
+    "phase": "solid"
+  }],[{
+    "atomic number z": 69,
+    "symbol": "Tm",
+    "name": "Thulium",
+    "mass": 168.934,
+    "change": {
+      "melting": 1818.0,
+      "boiling": 2223.0
+    },
+    "density": {
+      "solid": 9.32,
+      "liquid": 8.56
+    },
+    "heat": {
+      "fusion": 16.84,
+      "vaporization": 191.0
+    },
+    "radius": {
+      "atomic": 176,
+      "covalent": 190
+    },
+    "state": {
+      "0": 0,
+      "1": 1,
+      "2": 2,
+      "3": 3
+    },
+    "shell": {
+      "0": 2,
+      "1": 8,
+      "2": 18,
+      "3": 31,
+      "4": 8,
+      "5": 2
+    },
+    "config": "4f13_6s2",
+    "ionization": {
+      "0": 596.7,
+      "1": 1160.0,
+      "2": 2285.0
+    },
+    "pauling": {
+      "0": 1.25
+    },
+    "group": -1,
+    "family": "lanthanid",
+    "period": 6,
+    "block": "f",
+    "phase": "solid"
+  }],[{
+    "atomic number z": 70,
+    "symbol": "Yb",
+    "name": "Ytterbium",
+    "mass": 173.045,
+    "change": {
+      "melting": 1097.0,
+      "boiling": 1469.0
+    },
+    "density": {
+      "solid": 6.9,
+      "liquid": 6.21
+    },
+    "heat": {
+      "fusion": 7.66,
+      "vaporization": 129.0
+    },
+    "radius": {
+      "atomic": 176,
+      "covalent": 187
+    },
+    "state": {
+      "0": 0,
+      "1": 1,
+      "2": 2,
+      "3": 3
+    },
+    "shell": {
+      "0": 2,
+      "1": 8,
+      "2": 18,
+      "3": 32,
+      "4": 8,
+      "5": 2
+    },
+    "config": "4f14_6s2",
+    "ionization": {
+      "0": 603.4,
+      "1": 1174.8,
+      "2": 2417.0
+    },
+    "pauling": {
+      "0": 1.1
+    },
+    "group": -1,
+    "family": "lanthanid",
+    "period": 6,
+    "block": "f",
+    "phase": "solid"
+  }],[{
+    "atomic number z": 71,
+    "symbol": "Lu",
+    "name": "Lutetium",
+    "mass": 174.9668,
+    "change": {
+      "melting": 1925.0,
+      "boiling": 3675.0
+    },
+    "density": {
+      "solid": 9.841,
+      "liquid": 9.3
+    },
+    "heat": {
+      "fusion": 22.0,
+      "vaporization": 414.0
+    },
+    "radius": {
+      "atomic": 174,
+      "covalent": 187
+    },
+    "state": {
+      "0": 0,
+      "1": 1,
+      "2": 2,
+      "3": 3
+    },
+    "shell": {
+      "0": 2,
+      "1": 8,
+      "2": 18,
+      "3": 32,
+      "4": 9,
+      "5": 2
+    },
+    "config": "4f14_5d1_6s2",
+    "ionization": {
+      "0": 523.5,
+      "1": 1340.0,
+      "2": 2022.3
+    },
+    "pauling": {
+      "0": 1.27
+    },
+    "group": 3,
+    "family": "",
+    "period": 6,
+    "block": "d",
+    "phase": "solid"
+  }],[{
+    "atomic number z": 72,
+    "symbol": "Hf",
+    "name": "Hafnium",
+    "mass": 178.486,
+    "change": {
+      "melting": 2506.0,
+      "boiling": 4876.0
+    },
+    "density": {
+      "solid": 13.31,
+      "liquid": 12.0
+    },
+    "heat": {
+      "fusion": 27.2,
+      "vaporization": 648.0
+    },
+    "radius": {
+      "atomic": 159,
+      "covalent": 175
+    },
+    "state": {
+      "0": -2,
+      "1": 0,
+      "2": 1,
+      "3": 2,
+      "4": 3,
+      "5": 4
+    },
+    "shell": {
+      "0": 2,
+      "1": 8,
+      "2": 18,
+      "3": 32,
+      "4": 10,
+      "5": 2
+    },
+    "config": "4f14_5d2_6s2",
+    "ionization": {
+      "0": 658.5,
+      "1": 1440.0,
+      "2": 2250.0
+    },
+    "pauling": {
+      "0": 1.3
+    },
+    "group": 4,
+    "family": "",
+    "period": 6,
+    "block": "d",
+    "phase": "solid"
+  }],[{
+    "atomic number z": 73,
+    "symbol": "Ta",
+    "name": "Tantalum",
+    "mass": 180.947,
+    "change": {
+      "melting": 3290.0,
+      "boiling": 5731.0
+    },
+    "density": {
+      "solid": 16.69,
+      "liquid": 15.0
+    },
+    "heat": {
+      "fusion": 36.57,
+      "vaporization": 753.0
+    },
+    "radius": {
+      "atomic": 146,
+      "covalent": 170
+    },
+    "state": {
+      "0": -3,
+      "1": -1,
+      "2": 0,
+      "3": 1,
+      "4": 2,
+      "5": 3,
+      "6": 4,
+      "7": 5
+    },
+    "shell": {
+      "0": 2,
+      "1": 8,
+      "2": 18,
+      "3": 32,
+      "4": 11,
+      "5": 2
+    },
+    "config": "4f14_5d3_6s2",
+    "ionization": {
+      "0": 761.0,
+      "1": 1500.0
+    },
+    "pauling": {
+      "0": 1.5
+    },
+    "group": 5,
+    "family": "",
+    "period": 6,
+    "block": "d",
+    "phase": "solid"
+  }],[{
+    "atomic number z": 74,
+    "symbol": "W",
+    "name": "Tungsten",
+    "mass": 183.84,
+    "change": {
+      "melting": 3695.0,
+      "boiling": 6203.0
+    },
+    "density": {
+      "solid": 19.25,
+      "liquid": 17.6
+    },
+    "heat": {
+      "fusion": 52.31,
+      "vaporization": 774.0
+    },
+    "radius": {
+      "atomic": 139,
+      "covalent": 162
+    },
+    "state": {
+      "0": -4,
+      "1": -2,
+      "2": -1,
+      "3": 0,
+      "4": 1,
+      "5": 2,
+      "6": 3,
+      "7": 4,
+      "8": 5,
+      "9": 6
+    },
+    "shell": {
+      "0": 2,
+      "1": 8,
+      "2": 18,
+      "3": 32,
+      "4": 12,
+      "5": 2
+    },
+    "config": "4f14_5d4_6s2",
+    "ionization": {
+      "0": 770.0,
+      "1": 1700.0
+    },
+    "pauling": {
+      "0": 2.36
+    },
+    "group": 6,
+    "family": "",
+    "period": 6,
+    "block": "d",
+    "phase": "solid"
+  }],[{
+    "atomic number z": 75,
+    "symbol": "Re",
+    "name": "Rhenium",
+    "mass": 186.207,
+    "change": {
+      "melting": 3459.0,
+      "boiling": 5903.0
+    },
+    "density": {
+      "solid": 21.02,
+      "liquid": 18.9
+    },
+    "heat": {
+      "fusion": 60.43,
+      "vaporization": 704.0
+    },
+    "radius": {
+      "atomic": 137,
+      "covalent": 151
+    },
+    "state": {
+      "0": -3,
+      "1": -1,
+      "2": 0,
+      "3": 1,
+      "4": 2,
+      "5": 3,
+      "6": 4,
+      "7": 5,
+      "8": 6,
+      "9": 7
+    },
+    "shell": {
+      "0": 2,
+      "1": 8,
+      "2": 18,
+      "3": 32,
+      "4": 13,
+      "5": 2
+    },
+    "config": "4f14_5d5_6s2",
+    "ionization": {
+      "0": 760.0,
+      "1": 1260.0,
+      "2": 2510.0
+    },
+    "pauling": {
+      "0": 1.9
+    },
+    "group": 7,
+    "family": "",
+    "period": 6,
+    "block": "d",
+    "phase": "solid"
+  }],[{
+    "atomic number z": 76,
+    "symbol": "Os",
+    "name": "Osmium",
+    "mass": 190.23,
+    "change": {
+      "melting": 3306.0,
+      "boiling": 5285.0
+    },
+    "density": {
+      "solid": 22.59,
+      "liquid": 20.0
+    },
+    "heat": {
+      "fusion": 31.0,
+      "vaporization": 378.0
+    },
+    "radius": {
+      "atomic": 135,
+      "covalent": 144
+    },
+    "state": {
+      "0": -4,
+      "1": -2,
+      "2": -1,
+      "3": 0,
+      "4": 1,
+      "5": 2,
+      "6": 3,
+      "7": 4,
+      "8": 5,
+      "9": 6,
+      "10": 7,
+      "11": 8
+    },
+    "shell": {
+      "0": 2,
+      "1": 8,
+      "2": 18,
+      "3": 32,
+      "4": 14,
+      "5": 2
+    },
+    "config": "4f14_5d6_6s2",
+    "ionization": {
+      "0": 840.0,
+      "1": 1600.0
+    },
+    "pauling": {
+      "0": 2.2
+    },
+    "group": 8,
+    "family": "",
+    "period": 6,
+    "block": "d",
+    "phase": "solid"
+  }],[{
+    "atomic number z": 77,
+    "symbol": "Ir",
+    "name": "Iridium",
+    "mass": 192.217,
+    "change": {
+      "melting": 2719.0,
+      "boiling": 4403.0
+    },
+    "density": {
+      "solid": 22.56,
+      "liquid": 19.0
+    },
+    "heat": {
+      "fusion": 41.12,
+      "vaporization": 564.0
+    },
+    "radius": {
+      "atomic": 136,
+      "covalent": 141
+    },
+    "state": {
+      "0": -3,
+      "1": -1,
+      "2": 0,
+      "3": 1,
+      "4": 2,
+      "5": 3,
+      "6": 4,
+      "7": 5,
+      "8": 6,
+      "9": 7,
+      "10": 8,
+      "11": 9
+    },
+    "shell": {
+      "0": 2,
+      "1": 8,
+      "2": 18,
+      "3": 32,
+      "4": 15,
+      "5": 2
+    },
+    "config": "4f14_5d7_6s2",
+    "ionization": {
+      "0": 880.0,
+      "1": 1600.0
+    },
+    "pauling": {
+      "0": 2.2
+    },
+    "group": 9,
+    "family": "",
+    "period": 6,
+    "block": "d",
+    "phase": "solid"
+  }],[{
+    "atomic number z": 78,
+    "symbol": "Pt",
+    "name": "Platinium",
+    "mass": 195.084,
+    "change": {
+      "melting": 2041.4,
+      "boiling": 4098.0
+    },
+    "density": {
+      "solid": 21.45,
+      "liquid": 19.77
+    },
+    "heat": {
+      "fusion": 22.17,
+      "vaporization": 510.0
+    },
+    "radius": {
+      "atomic": 139,
+      "covalent": 136,
+      "waals": 175
+    },
+    "state": {
+      "0": -3,
+      "1": -2,
+      "2": -1,
+      "3": 0,
+      "4": 1,
+      "5": 2,
+      "6": 3,
+      "7": 4,
+      "8": 5,
+      "9": 6
+    },
+    "shell": {
+      "0": 2,
+      "1": 8,
+      "2": 18,
+      "3": 32,
+      "4": 17,
+      "5": 1
+    },
+    "config": "4f14_5d9_6s1",
+    "ionization": {
+      "0": 870.0,
+      "1": 1791.0
+    },
+    "pauling": {
+      "0": 2.28
+    },
+    "group": 10,
+    "family": "",
+    "period": 6,
+    "block": "d",
+    "phase": "solid"
+  }],[{
+    "atomic number z": 79,
+    "symbol": "Au",
+    "name": "Gold",
+    "mass": 196.966,
+    "change": {
+      "melting": 1337.33,
+      "boiling": 3243.0
+    },
+    "density": {
+      "solid": 19.3,
+      "liquid": 17.31
+    },
+    "heat": {
+      "fusion": 12.55,
+      "vaporization": 342.0
+    },
+    "radius": {
+      "atomic": 144,
+      "covalent": 136,
+      "waals": 166
+    },
+    "state": {
+      "0": -3,
+      "1": -2,
+      "2": -1,
+      "3": 0,
+      "4": 1,
+      "5": 2,
+      "6": 3,
+      "7": 5
+    },
+    "shell": {
+      "0": 2,
+      "1": 8,
+      "2": 18,
+      "3": 32,
+      "4": 18,
+      "5": 1
+    },
+    "config": "4f14_5d10_6s1",
+    "ionization": {
+      "0": 890.0,
+      "1": 1980.0
+    },
+    "pauling": {
+      "0": 2.28
+    },
+    "group": 11,
+    "family": "",
+    "period": 6,
+    "block": "d",
+    "phase": "solid"
+  }],[{
+    "atomic number z": 80,
+    "symbol": "Hg",
+    "name": "Mercury",
+    "mass": 200.592,
+    "change": {
+      "melting": 234.3210,
+      "boiling": 629.88
+    },
+    "density": {
+      "liquid": 13.534
+    },
+    "heat": {
+      "fusion": 2.29,
+      "vaporization": 59.11
+    },
+    "radius": {
+      "atomic": 151,
+      "covalent": 132,
+      "waals": 155
+    },
+    "state": {
+      "0": -2,
+      "1": 1,
+      "2": 2
+    },
+    "shell": {
+      "0": 2,
+      "1": 8,
+      "2": 18,
+      "3": 32,
+      "4": 18,
+      "5": 2
+    },
+    "config": "4f14_5d10_6s2",
+    "ionization": {
+      "0": 1007.1,
+      "1": 1810.0,
+      "2": 3300.0
+    },
+    "pauling": {
+      "0": 2.0
+    },
+    "group": 12,
+    "family": "",
+    "period": 6,
+    "block": "d",
+    "phase": "liquid"
+  }],[{
+    "atomic number z": 81,
+    "symbol": "Ti",
+    "name": "Thallium",
+    "mass": 204.382,
+    "change": {
+      "melting": 577.0,
+      "boiling": 1746.0
+    },
+    "density": {
+      "solid": 11.85,
+      "liquid": 11.22
+    },
+    "heat": {
+      "fusion": 4.14,
+      "vaporization": 165.0
+    },
+    "radius": {
+      "atomic": 170,
+      "covalent": 145,
+      "waals": 196
+    },
+    "state": {
+      "0": -5,
+      "1": -2,
+      "2": -1,
+      "3": 1,
+      "4": 2,
+      "5": 3
+    },
+    "shell": {
+      "0": 2,
+      "1": 8,
+      "2": 18,
+      "3": 32,
+      "4": 18,
+      "5": 3
+    },
+    "config": "4f14_5d10_6s2_6p1",
+    "ionization": {
+      "0": 589.4,
+      "1": 1971.0,
+      "2": 2878.0
+    },
+    "pauling": {
+      "0": 1.62
+    },
+    "group": 13,
+    "family": "boron group",
+    "period": 6,
+    "block": "p",
+    "phase": "solid"
+  }],[{
+    "atomic number z": 82,
+    "symbol": "Pb",
+    "name": "Lead",
+    "mass": 207.94,
+    "change": {
+      "melting": 600.61,
+      "boiling": 2022.0
+    },
+    "density": {
+      "solid": 11.34,
+      "liquid": 10.66
+    },
+    "heat": {
+      "fusion": 4.77,
+      "vaporization": 179.5
+    },
+    "radius": {
+      "atomic": 175,
+      "covalent": 146,
+      "waals": 202
+    },
+    "state": {
+      "0": -4,
+      "1": -2,
+      "2": -1,
+      "3": 0,
+      "4": 1,
+      "5": 2,
+      "6": 3,
+      "7": 4
+    },
+    "shell": {
+      "0": 2,
+      "1": 8,
+      "2": 18,
+      "3": 32,
+      "4": 18,
+      "5": 4
+    },
+    "config": "4f14_5d10_6s2_6p2",
+    "ionization": {
+      "0": 715.6,
+      "1": 1450.5,
+      "2": 3081.5
+    },
+    "pauling": {
+      "4": 2.33,
+      "2": 1.87
+    },
+    "group": 14,
+    "family": "carbon group",
+    "period": 6,
+    "block": "p",
+    "phase": "solid"
+  }],[{
+    "atomic number z": 83,
+    "symbol": "Bi",
+    "name": "Bismuth",
+    "mass": 208.98,
+    "change": {
+      "melting": 544.7,
+      "boiling": 1837.0
+    },
+    "density": {
+      "solid": 8.78,
+      "liquid": 10.05
+    },
+    "heat": {
+      "fusion": 11.3,
+      "vaporization": 179.0
+    },
+    "radius": {
+      "atomic": 156,
+      "covalent": 148,
+      "waals": 207
+    },
+    "state": {
+      "0": -3,
+      "1": -2,
+      "2": -1,
+      "3": 0,
+      "4": 1,
+      "5": 2,
+      "6": 3,
+      "7": 4,
+      "8": 5
+    },
+    "shell": {
+      "0": 2,
+      "1": 8,
+      "2": 18,
+      "3": 32,
+      "4": 18,
+      "5": 5
+    },
+    "config": "4f14_5d10_6s2_6p3",
+    "ionization": {
+      "0": 703.0,
+      "1": 1610.0,
+      "2": 2466.0
+    },
+    "pauling": {
+      "0": 2.02
+    },
+    "group": 15,
+    "family": "pnictogens",
+    "period": 6,
+    "block": "p",
+    "phase": "solid"
+  }],[{
+    "atomic number z": 84,
+    "symbol": "Po",
+    "name": "Polonium",
+    "mass": 209.0,
+    "change": {
+      "melting": 527.0,
+      "boiling": 1235.0
+    },
+    "density": {
+      "alpha": 9.196,
+      "beta": 9.398
+    },
+    "heat": {
+      "fusion": 13.0,
+      "vaporization": 102.91
+    },
+    "radius": {
+      "atomic": 168,
+      "covalent": 140,
+      "waals": 197
+    },
+    "state": {
+      "0": -2,
+      "1": 2,
+      "2": 4,
+      "3": 5,
+      "4": 6
+    },
+    "shell": {
+      "0": 2,
+      "1": 8,
+      "2": 18,
+      "3": 32,
+      "4": 18,
+      "5": 6
+    },
+    "config": "4f14_5d10_6s2_6p4",
+    "ionization": {
+      "0": 812.1
+    },
+    "pauling": {
+      "0": 2.0
+    },
+    "group": 16,
+    "family": "chalcogens",
+    "period": 6,
+    "block": "p",
+    "phase": "solid"
+  }],[{
+    "atomic number z": 85,
+    "symbol": "At",
+    "name": "Astatine",
+    "mass": 210.0,
+    "change": {
+      "melting": 0.0,
+      "boiling": 0.0
+    },
+    "density": {
+      "solid predicted": 8.91
+    },
+    "heat": {
+      "fusion": 0.0,
+      "vaporization": 0.0
+    },
+    "radius": {
+      "atomic": 0,
+      "covalent": 0,
+      "waals": 0
+    },
+    "state": {
+      "0": -1,
+      "1": 1,
+      "2": 3,
+      "3": 5,
+      "4": 7
+    },
+    "shell": {
+      "0": 2,
+      "1": 8,
+      "2": 18,
+      "3": 32,
+      "4": 18,
+      "5": 7
+    },
+    "config": "4f14_5d10_6s2_6p5",
+    "ionization": {
+      "0": 0.0
+    },
+    "pauling": {
+      "0": 0.0
+    },
+    "group": 17,
+    "family": "halogens",
+    "period": 6,
+    "block": "p",
+    "phase": "solid predicted"
+  }],[{
+    "atomic number z": 86,
+    "symbol": "Rn",
+    "name": "Radon",
+    "mass": 222.0,
+    "change": {
+      "melting": 202.0,
+      "boiling": 211.5
+    },
+    "density": {
+      "gas": 8.73,
+      "liquid": 4.4
+
+    },
+    "heat": {
+      "fusion": 3.247,
+      "vaporization": 18.1
+    },
+    "radius": {
+      "covalent": 150,
+      "waals": 220
+    },
+    "state": {
+      "0": 0,
+      "1": 2,
+      "2": 6
+    },
+    "shell": {
+      "0": 2,
+      "1": 8,
+      "2": 18,
+      "3": 32,
+      "4": 18,
+      "5": 8
+    },
+    "config": "4f14_5d10_6s2_6p6",
+    "ionization": {
+      "0": 1037.0
+    },
+    "pauling": {
+      "0": 2.2
+    },
+    "group": 18,
+    "family": "noble gases",
+    "period": 6,
+    "block": "p",
+    "phase": "gas"
+  }],[{
+    "atomic number z": 87,
+    "symbol": "Fr",
+    "name": "Francium",
+    "mass": 223.0,
+    "change": {
+      "melting": 300.0,
+      "boiling": 950.0
+    },
+    "density": {
+      "solid": 2.48
+
+    },
+    "heat": {
+      "fusion": 0.0,
+      "vaporization": 0.0
+    },
+    "radius": {
+      "covalent": 150,
+      "waals": 220
+    },
+    "state": {
+      "0": 1
+    },
+    "shell": {
+      "0": 2,
+      "1": 8,
+      "2": 18,
+      "3": 32,
+      "4": 18,
+      "5": 8,
+      "6": 1
+    },
+    "config": "7s1",
+    "ionization": {
+      "0": 393.0
+    },
+    "pauling": {
+      "0": 0.79
+    },
+    "group": 1,
+    "family": "hydrogen alkali metals",
+    "period": 7,
+    "block": "s",
+    "phase": "solid"
+  }],[{
+    "atomic number z": 88,
+    "symbol": "Ra",
+    "name": "Radium",
+    "mass": 226.0,
+    "change": {
+      "melting": 973.0,
+      "boiling": 2010.0
+    },
+    "density": {
+      "solid": 5.5
+
+    },
+    "heat": {
+      "fusion": 8.5,
+      "vaporization": 113.0
+    },
+    "radius": {
+      "covalent": 221,
+      "waals": 283
+    },
+    "state": {
+      "0": 2
+    },
+    "shell": {
+      "0": 2,
+      "1": 8,
+      "2": 18,
+      "3": 32,
+      "4": 18,
+      "5": 8,
+      "6": 2
+    },
+    "config": "7s2",
+    "ionization": {
+      "0": 509.3,
+      "1": 979.0
+    },
+    "pauling": {
+      "0": 0.9
+    },
+    "group": 2,
+    "family": "alkaline earth metals",
+    "period": 7,
+    "block": "s",
+    "phase": "solid"
+  }],[{
+    "atomic number z": 89,
+    "symbol": "Ac",
+    "name": "Actinium",
+    "mass": 227.0,
+    "change": {
+      "melting": 1500.0,
+      "boiling alpha": 3500.0,
+      "boiling beta": 5800.0
+    },
+    "density": {
+      "solid": 10.0
+
+    },
+    "heat": {
+      "fusion": 14.0,
+      "vaporization": 400.0
+    },
+    "radius": {
+      "covalent": 215
+    },
+    "state": {
+      "0": 3
+    },
+    "shell": {
+      "0": 2,
+      "1": 8,
+      "2": 18,
+      "3": 32,
+      "4": 18,
+      "5": 9,
+      "6": 2
+    },
+    "config": "6d1_7s2",
+    "ionization": {
+      "0": 499.0,
+      "1": 1170.0,
+      "2": 1900.0
+    },
+    "pauling": {
+      "0": 1.1
+    },
+    "group": -2,
+    "family": "actinide",
+    "period": 7,
+    "block": "f",
+    "phase": "solid"
+  }],[{
+    "atomic number z": 90,
+    "symbol": "Th",
+    "name": "Thorium",
+    "mass": 232.0,
+    "change": {
+      "melting": 2023.0,
+      "boiling": 5061.0
+    },
+    "density": {
+      "solid": 11.7
+
+    },
+    "heat": {
+      "fusion": 13.81,
+      "vaporization": 514.0
+    },
+    "radius": {
+      "atomic": 179.8,
+      "covalent": 206
+    },
+    "state": {
+      "0": -1,
+      "1": 1,
+      "2": 2,
+      "3": 3,
+      "4": 4
+    },
+    "shell": {
+      "0": 2,
+      "1": 8,
+      "2": 18,
+      "3": 32,
+      "4": 18,
+      "5": 10,
+      "6": 2
+    },
+    "config": "6d2_7s2",
+    "ionization": {
+      "0": 587.0,
+      "1": 1110.0,
+      "2": 1930.0
+    },
+    "pauling": {
+      "0": 1.3
+    },
+    "group": -2,
+    "family": "actinide",
+    "period": 7,
+    "block": "f",
+    "phase": "solid"
+  }],[{
+    "atomic number z": 91,
+    "symbol": "Pa",
+    "name": "Protactinium",
+    "mass": 231.03588,
+    "change": {
+      "melting": 1841.0,
+      "boiling": 4300.0
+    },
+    "density": {
+      "solid": 15.37
+
+    },
+    "heat": {
+      "fusion": 12.34,
+      "vaporization": 481.0
+    },
+    "radius": {
+      "atomic": 163,
+      "covalent": 200
+    },
+    "state": {
+      "0": 2,
+      "1": 3,
+      "2": 4,
+      "3": 5
+    },
+    "shell": {
+      "0": 2,
+      "1": 8,
+      "2": 18,
+      "3": 32,
+      "4": 20,
+      "5": 9,
+      "6": 2
+    },
+    "config": "5f2_6d1_7s2",
+    "ionization": {
+      "0": 568.0
+    },
+    "pauling": {
+      "0": 1.5
+    },
+    "group": -2,
+    "family": "actinide",
+    "period": 7,
+    "block": "f",
+    "phase": "solid"
+  }],[{
+    "atomic number z": 92,
+    "symbol": "U",
+    "name": "Uranium",
+    "mass": 238.02891,
+    "change": {
+      "melting": 1405.3,
+      "boiling": 4404.0
+    },
+    "density": {
+      "solid": 19.1,
+      "liquid": 17.3
+
+    },
+    "heat": {
+      "fusion": 9.14,
+      "vaporization": 417.1
+    },
+    "radius": {
+      "atomic": 156,
+      "covalent": 196,
+      "waals": 186
+    },
+    "state": {
+      "0": -1,
+      "1": 1,
+      "2": 2,
+      "3": 3,
+      "4": 4,
+      "5": 5,
+      "6": 6
+    },
+    "shell": {
+      "0": 2,
+      "1": 8,
+      "2": 18,
+      "3": 32,
+      "4": 21,
+      "5": 9,
+      "6": 2
+    },
+    "config": "5f3_6d1_7s2",
+    "ionization": {
+      "0": 597.6,
+      "1": 1420.0
+    },
+    "pauling": {
+      "0": 1.38
+    },
+    "group": -2,
+    "family": "actinide",
+    "period": 7,
+    "block": "f",
+    "phase": "solid"
+  }],[{
+    "atomic number z": 93,
+    "symbol": "Np",
+    "name": "Neptunium",
+    "mass": 237.0,
+    "change": {
+      "melting": 912.0,
+      "boiling": 4447.0
+    },
+    "density": {
+      "alpha": 20.45,
+      "standard value": 19.38
+
+    },
+    "heat": {
+      "fusion": 5.19,
+      "vaporization": 336.0
+    },
+    "radius": {
+      "atomic": 155,
+      "covalent": 190
+    },
+    "state": {
+      "0": 2,
+      "1": 3,
+      "2": 4,
+      "3": 5,
+      "4": 6,
+      "5": 7
+    },
+    "shell": {
+      "0": 2,
+      "1": 8,
+      "2": 18,
+      "3": 32,
+      "4": 22,
+      "5": 9,
+      "6": 2
+    },
+    "config": "5f4_6d1_7s2",
+    "ionization": {
+      "0": 604.5
+    },
+    "pauling": {
+      "0": 1.36
+    },
+    "group": -2,
+    "family": "actinide",
+    "period": 7,
+    "block": "f",
+    "phase": "solid"
+  }],[{
+    "atomic number z": 94,
+    "symbol": "Pu",
+    "name": "Plutonium",
+    "mass": 244.0,
+    "change": {
+      "melting": 912.5,
+      "boiling": 3505.0
+    },
+    "density": {
+      "solid": 19.85,
+      "liquid": 16.63
+
+    },
+    "heat": {
+      "fusion": 2.82,
+      "vaporization": 333.5
+    },
+    "radius": {
+      "atomic": 159,
+      "covalent": 187
+    },
+    "state": {
+      "0": 2,
+      "1": 3,
+      "2": 4,
+      "3": 5,
+      "4": 6,
+      "5": 7,
+      "6": 8
+    },
+    "shell": {
+      "0": 2,
+      "1": 8,
+      "2": 18,
+      "3": 32,
+      "4": 24,
+      "5": 8,
+      "6": 2
+    },
+    "config": "5f6_7s2",
+    "ionization": {
+      "0": 584.7
+    },
+    "pauling": {
+      "0": 1.28
+    },
+    "group": -2,
+    "family": "actinide",
+    "period": 7,
+    "block": "f",
+    "phase": "solid"
+  }],[{
+    "atomic number z": 95,
+    "symbol": "Am",
+    "name": "Americium",
+    "mass": 243.0,
+    "change": {
+      "melting": 1449.0,
+      "boiling": 2880.0
+    },
+    "density": {
+      "solid": 12.0
+
+    },
+    "heat": {
+      "fusion": 12.0
+    },
+    "radius": {
+      "atomic": 173,
+      "covalent": 180
+    },
+    "state": {
+      "0": 2,
+      "1": 3,
+      "2": 4,
+      "3": 5,
+      "4": 6,
+      "5": 7
+    },
+    "shell": {
+      "0": 2,
+      "1": 8,
+      "2": 18,
+      "3": 32,
+      "4": 25,
+      "5": 8,
+      "6": 2
+    },
+    "config": "5f7_7s2",
+    "ionization": {
+      "0": 578.0
+    },
+    "pauling": {
+      "0": 1.3
+    },
+    "group": -2,
+    "family": "actinide",
+    "period": 7,
+    "block": "f",
+    "phase": "solid"
+  }],[{
+    "atomic number z": 96,
+    "symbol": "Cm",
+    "name": "Curium",
+    "mass": 247.0,
+    "change": {
+      "melting": 1613.0,
+      "boiling": 3383.0
+    },
+    "density": {
+      "solid": 13.51
+
+    },
+    "heat": {
+      "fusion": 13.85
+    },
+    "radius": {
+      "atomic": 174,
+      "covalent": 169
+    },
+    "state": {
+      "0": 3,
+      "1": 4,
+      "2": 5,
+      "3": 6
+    },
+    "shell": {
+      "0": 2,
+      "1": 8,
+      "2": 18,
+      "3": 32,
+      "4": 25,
+      "5": 9,
+      "6": 2
+    },
+    "config": "5f7_6d1_7s2",
+    "ionization": {
+      "0": 581.0
+    },
+    "pauling": {
+      "0": 1.3
+    },
+    "group": -2,
+    "family": "actinide",
+    "period": 7,
+    "block": "f",
+    "phase": "solid"
+  }],[{
+    "atomic number z": 97,
+    "symbol": "Bk",
+    "name": "Berkelium",
+    "mass": 247.0,
+    "change": {
+      "melting beta": 1259.0,
+      "boiling beta": 2900.0
+    },
+    "density": {
+      "solid alpha": 14.78,
+      "solid beta": 13.25
+
+    },
+    "heat": {
+      "fusion": 7.92
+    },
+    "radius": {
+      "atomic": 170
+    },
+    "state": {
+      "0": 2,
+      "1": 3,
+      "2": 4,
+      "3": 5
+    },
+    "shell": {
+      "0": 2,
+      "1": 8,
+      "2": 18,
+      "3": 32,
+      "4": 27,
+      "5": 8,
+      "6": 2
+    },
+    "config": "5f9_7s2",
+    "ionization": {
+      "0": 601.0
+    },
+    "pauling": {
+      "0": 1.3
+    },
+    "group": -2,
+    "family": "actinide",
+    "period": 7,
+    "block": "f",
+    "phase": "solid"
+  }],[{
+    "atomic number z": 98,
+    "symbol": "Cf",
+    "name": "Californium",
+    "mass": 251.0,
+    "change": {
+      "melting beta": 1173.0,
+      "boiling beta": 1743.0
+    },
+    "density": {
+      "solid": 15.1
+
+    },
+    "heat": {
+      "fusion": 0.0
+    },
+    "radius": {
+      "atomic": 0
+    },
+    "state": {
+      "0": 2,
+      "1": 3,
+      "2": 4,
+      "3": 5
+    },
+    "shell": {
+      "0": 2,
+      "1": 8,
+      "2": 18,
+      "3": 32,
+      "4": 28,
+      "5": 8,
+      "6": 2
+    },
+    "config": "5f10_7s2",
+    "ionization": {
+      "0": 608.0
+    },
+    "pauling": {
+      "0": 1.3
+    },
+    "group": -2,
+    "family": "actinide",
+    "period": 7,
+    "block": "f",
+    "phase": "solid"
+  }],[{
+    "atomic number z": 99,
+    "symbol": "Es",
+    "name": "Einsteinium",
+    "mass": 252.0,
+    "change": {
+      "melting": 1133.0,
+      "boiling": 1269.0
+    },
+    "density": {
+      "solid": 8.84
+
+    },
+    "heat": {
+      "fusion": 0.0
+    },
+    "radius": {
+      "atomic": 0
+    },
+    "state": {
+      "0": 2,
+      "1": 3,
+      "2": 4
+    },
+    "shell": {
+      "0": 2,
+      "1": 8,
+      "2": 18,
+      "3": 32,
+      "4": 29,
+      "5": 8,
+      "6": 2
+    },
+    "config": "5f11_7s2",
+    "ionization": {
+      "0": 619.0
+    },
+    "pauling": {
+      "0": 1.3
+    },
+    "group": -2,
+    "family": "actinide",
+    "period": 7,
+    "block": "f",
+    "phase": "solid"
+  }],[{
+    "atomic number z": 100,
+    "symbol": "Fm",
+    "name": "Fermium",
+    "mass": 257.0,
+    "change": {
+      "melting preticted": 1800.0
+    },
+    "density": {
+      "solid": 9.7
+
+    },
+    "heat": {
+      "fusion": 0.0
+    },
+    "radius": {
+      "atomic": 0
+    },
+    "state": {
+      "0": 2,
+      "1": 3
+    },
+    "shell": {
+      "0": 2,
+      "1": 8,
+      "2": 18,
+      "3": 32,
+      "4": 30,
+      "5": 8,
+      "6": 2
+    },
+    "config": "5f12_7s2",
+    "ionization": {
+      "0": 629.0
+    },
+    "pauling": {
+      "0": 1.3
+    },
+    "group": -2,
+    "family": "actinide",
+    "period": 7,
+    "block": "f",
+    "phase": "solid"
+  }],[{
+    "atomic number z": 101,
+    "symbol": "Md",
+    "name": "Mendelevium",
+    "mass": 258.0,
+    "change": {
+      "melting preticted": 1100.0
+    },
+    "density": {
+      "solid": 10.3
+
+    },
+    "heat": {
+      "fusion": 0.0
+    },
+    "radius": {
+      "atomic": 0
+    },
+    "state": {
+      "0": 2,
+      "1": 3
+    },
+    "shell": {
+      "0": 2,
+      "1": 8,
+      "2": 18,
+      "3": 32,
+      "4": 31,
+      "5": 8,
+      "6": 2
+    },
+    "config": "5f13_7s2",
+    "ionization": {
+      "0": 636.0
+    },
+    "pauling": {
+      "0": 1.3
+    },
+    "group": -2,
+    "family": "actinide",
+    "period": 7,
+    "block": "f",
+    "phase": "solid"
+  }],[{
+    "atomic number z": 102,
+    "symbol": "No",
+    "name": "Nobelium",
+    "mass": 259.0,
+    "change": {
+      "melting preticted": 1100.0
+    },
+    "density": {
+      "solid": 9.9
+
+    },
+    "heat": {
+      "fusion": 0.0
+    },
+    "radius": {
+      "atomic": 0
+    },
+    "state": {
+      "0": 2,
+      "1": 3
+    },
+    "shell": {
+      "0": 2,
+      "1": 8,
+      "2": 18,
+      "3": 32,
+      "4": 32,
+      "5": 8,
+      "6": 2
+    },
+    "config": "5f14_7s2",
+    "ionization": {
+      "0": 639.0,
+      "1": 1254.3,
+      "2": 2605.1
+    },
+    "pauling": {
+      "0": 1.3
+    },
+    "group": -2,
+    "family": "actinide",
+    "period": 7,
+    "block": "f",
+    "phase": "solid"
+  }],[{
+    "atomic number z": 103,
+    "symbol": "Lr",
+    "name": "Lawrencium",
+    "mass": 266.0,
+    "change": {
+      "melting preticted": 1900.0
+    },
+    "density": {
+      "solid": 14.4
+
+    },
+    "heat": {
+      "fusion": 0.0
+    },
+    "radius": {
+      "atomic": 0
+    },
+    "state": {
+      "0": 3
+    },
+    "shell": {
+      "0": 2,
+      "1": 8,
+      "2": 18,
+      "3": 32,
+      "4": 32,
+      "5": 8,
+      "6": 3
+    },
+    "config": "5f14_7s2_7p1",
+    "ionization": {
+      "0": 479.0,
+      "1 predicted": 1428.0,
+      "2 predicted": 2219.1
+    },
+    "pauling": {
+      "0": 1.3
+    },
+    "group": 3,
+    "family": "",
+    "period": 7,
+    "block": "d",
+    "phase": "solid predicted"
+  }],[{
+    "atomic number z": 104,
+    "symbol": "Rf",
+    "name": "Rutherfordium",
+    "mass": 267.0,
+    "change": {
+      "melting preticted": 2400.0,
+      "boiling predicted": 5800.0
+    },
+    "density": {
+      "solid preticted": 17.0
+
+    },
+    "heat": {
+      "fusion": 0.0
+    },
+    "radius": {
+      "atomic": 150,
+      "covalent": 157
+    },
+    "state": {
+      "0 predicted": 2,
+      "1 predicted": 3,
+      "2": 4
+    },
+    "shell": {
+      "0": 2,
+      "1": 8,
+      "2": 18,
+      "3": 32,
+      "4": 32,
+      "5": 10,
+      "6": 2
+    },
+    "config": "5f14_6d2_7s2",
+    "ionization": {
+      "0": 580.0,
+      "1": 1390.0,
+      "2": 2300.0
+    },
+    "pauling": {
+      "0": 0.0
+    },
+    "group": 4,
+    "family": "",
+    "period": 7,
+    "block": "d",
+    "phase": "solid predicted"
+  }],[{
+    "atomic number z": 105,
+    "symbol": "Db",
+    "name": "Dubnium",
+    "mass": 268.0,
+    "change": {
+      "melting": 0.0
+    },
+    "density": {
+      "solid preticted": 21.6
+
+    },
+    "heat": {
+      "fusion": 0.0
+    },
+    "radius": {
+      "atomic": 139,
+      "covalent": 149
+    },
+    "state": {
+      "0 predicted": 3,
+      "1 predicted": 4,
+      "2": 5
+    },
+    "shell": {
+      "0": 2,
+      "1": 8,
+      "2": 18,
+      "3": 32,
+      "4": 32,
+      "5": 11,
+      "6": 2
+    },
+    "config": "5f14_6d3_7s2",
+    "ionization": {
+      "0": 665.0,
+      "1": 1547.0,
+      "2": 2378.0
+    },
+    "pauling": {
+      "0": 0.0
+    },
+    "group": 5,
+    "family": "",
+    "period": 7,
+    "block": "d",
+    "phase": "solid predicted"
+  }],[{
+    "atomic number z": 106,
+    "symbol": "Sg",
+    "name": "Seaborgium",
+    "mass": 269.0,
+    "change": {
+      "melting": 0.0
+    },
+    "density": {
+      "solid preticted": 23.5
+
+    },
+    "heat": {
+      "fusion": 0.0
+    },
+    "radius": {
+      "atomic": 132,
+      "covalent": 143
+    },
+    "state": {
+      "0": 0,
+      "1 predicted": 3,
+      "2 predicted": 4,
+      "3 predicted": 5,
+      "4": 6
+    },
+    "shell": {
+      "0": 2,
+      "1": 8,
+      "2": 18,
+      "3": 32,
+      "4": 32,
+      "5": 12,
+      "6": 2
+    },
+    "config": "5f14_6d4_7s2",
+    "ionization": {
+      "0": 757.0,
+      "1": 1733.0,
+      "2": 2484.0
+    },
+    "pauling": {
+      "0": 0.0
+    },
+    "group": 6,
+    "family": "",
+    "period": 7,
+    "block": "d",
+    "phase": "solid predicted"
+  }],[{
+    "atomic number z": 107,
+    "symbol": "Bh",
+    "name": "Bohrium",
+    "mass": 270.0,
+    "change": {
+      "melting": 0.0
+    },
+    "density": {
+      "solid preticted": 26.5
+
+    },
+    "heat": {
+      "fusion": 0.0
+    },
+    "radius": {
+      "atomic": 128,
+      "covalent": 141
+    },
+    "state": {
+      "0 predicted": 3,
+      "1 predicted": 4,
+      "2 predicted": 5,
+      "3": 7
+    },
+    "shell": {
+      "0": 2,
+      "1": 8,
+      "2": 18,
+      "3": 32,
+      "4": 32,
+      "5": 13,
+      "6": 2
+    },
+    "config": "5f14_6d5_7s2",
+    "ionization": {
+      "0": 740.0,
+      "1": 1690.0,
+      "2": 2570.0
+    },
+    "pauling": {
+      "0": 0.0
+    },
+    "group": 7,
+    "family": "",
+    "period": 7,
+    "block": "d",
+    "phase": "solid predicted"
+  }],[{
+    "atomic number z": 108,
+    "symbol": "Hs",
+    "name": "Hassium",
+    "mass": 269.0,
+    "change": {
+      "melting": 0.0
+    },
+    "density": {
+      "solid preticted": 28.0
+
+    },
+    "heat": {
+      "fusion": 0.0
+    },
+    "radius": {
+      "atomic": 126,
+      "covalent": 131
+    },
+    "state": {
+      "0 predicted": 2,
+      "1 predicted": 3,
+      "2 predicted": 4,
+      "3 predicted": 6,
+      "4": 8
+    },
+    "shell": {
+      "0": 2,
+      "1": 8,
+      "2": 18,
+      "3": 32,
+      "4": 32,
+      "5": 14,
+      "6": 2
+    },
+    "config": "5f14_6d6_7s2",
+    "ionization": {
+      "0": 730.0,
+      "1": 1760.0,
+      "2": 2830.0
+    },
+    "pauling": {
+      "0": 0.0
+    },
+    "group": 8,
+    "family": "",
+    "period": 7,
+    "block": "d",
+    "phase": "solid predicted"
+  }],[{
+    "atomic number z": 109,
+    "symbol": "Mt",
+    "name": "Meitnerium",
+    "mass": 278.0,
+    "change": {
+      "melting": 0.0
+    },
+    "density": {
+      "solid preticted": 27.5
+
+    },
+    "heat": {
+      "fusion": 0.0
+    },
+    "radius": {
+      "atomic": 128,
+      "covalent": 119
+    },
+    "state": {
+      "0 predicted": 1,
+      "1 predicted": 3,
+      "2 predicted": 4,
+      "3 predicted": 6,
+      "4 predicted": 8
+    },
+    "shell": {
+      "0": 2,
+      "1": 8,
+      "2": 18,
+      "3": 32,
+      "4": 32,
+      "5": 15,
+      "6": 2
+    },
+    "config": "5f14_6d7_7s2",
+    "ionization": {
+      "0": 800.0,
+      "1": 1820.0,
+      "2": 2900.0
+    },
+    "pauling": {
+      "0": 0.0
+    },
+    "group": 9,
+    "family": "",
+    "period": 7,
+    "block": "d",
+    "phase": "solid predicted"
+  }],[{
+    "atomic number z": 110,
+    "symbol": "Ds",
+    "name": "Darmstadtium",
+    "mass": 281.0,
+    "change": {
+      "melting": 0.0
+    },
+    "density": {
+      "solid preticted": 26.5
+
+    },
+    "heat": {
+      "fusion": 0.0
+    },
+    "radius": {
+      "atomic": 132,
+      "covalent": 128
+    },
+    "state": {
+      "0 predicted": 0,
+      "1 predicted": 2,
+      "2 predicted": 4,
+      "3 predicted": 6,
+      "4 predicted": 8
+    },
+    "shell": {
+      "0": 2,
+      "1": 8,
+      "2": 18,
+      "3": 32,
+      "4": 32,
+      "5": 16,
+      "6": 2
+    },
+    "config": "5f14_6d8_7s2",
+    "ionization": {
+      "0": 960.0,
+      "1": 1890.0,
+      "2": 3030.0
+    },
+    "pauling": {
+      "0": 0.0
+    },
+    "group": 10,
+    "family": "",
+    "period": 7,
+    "block": "d",
+    "phase": "solid predicted"
+  }],[{
+    "atomic number z": 111,
+    "symbol": "Rg",
+    "name": "Roaergenium",
+    "mass": 282.0,
+    "change": {
+      "melting": 0.0
+    },
+    "density": {
+      "solid preticted": 22.5
+
+    },
+    "heat": {
+      "fusion": 0.0
+    },
+    "radius": {
+      "atomic": 138,
+      "covalent": 121
+    },
+    "state": {
+      "0 predicted": -1,
+      "1 predicted": 1,
+      "2 predicted": 3,
+      "3 predicted": 5,
+      "4 predicted": 7
+    },
+    "shell": {
+      "0": 2,
+      "1": 8,
+      "2": 18,
+      "3": 32,
+      "4": 32,
+      "5": 17,
+      "6": 2
+    },
+    "config": "5f14_6d9_7s2",
+    "ionization": {
+      "0": 1020.0,
+      "1": 2070.0,
+      "2": 3080.0
+    },
+    "pauling": {
+      "0": 0.0
+    },
+    "group": 11,
+    "family": "",
+    "period": 7,
+    "block": "d",
+    "phase": "solid predicted"
+  }],[{
+    "atomic number z": 112,
+    "symbol": "Cn",
+    "name": "Copernicium",
+    "mass": 285.0,
+    "change": {
+      "melting predicted": 283.0,
+      "boiling predicted": 340.0
+    },
+    "density": {
+      "solid preticted": 14.0
+
+    },
+    "heat": {
+      "fusion": 0.0
+    },
+    "radius": {
+      "atomic predicted": 147,
+      "covalent predicted": 122
+    },
+    "state": {
+      "0": 0,
+      "1 predicted": 1,
+      "2": 2,
+      "3 predicted": 4,
+      "4 predicted": 6
+    },
+    "shell": {
+      "0": 2,
+      "1": 8,
+      "2": 18,
+      "3": 32,
+      "4": 32,
+      "5": 18,
+      "6": 2
+    },
+    "config": "5f14_6d10_7s2",
+    "ionization": {
+      "0": 1155.0,
+      "1": 2170.0,
+      "2": 3160.0
+    },
+    "pauling": {
+      "0": 0.0
+    },
+    "group": 12,
+    "family": "",
+    "period": 7,
+    "block": "d",
+    "phase": "solid predicted"
+  }],[{
+    "atomic number z": 113,
+    "symbol": "Nh",
+    "name": "Nihonium",
+    "mass": 286.0,
+    "change": {
+      "melting predicted": 700.0,
+      "boiling predicted": 1430.0
+    },
+    "density": {
+      "solid preticted": 16.0
+
+    },
+    "heat": {
+      "fusion": 7.61,
+      "vaporization predicted": 130.0
+    },
+    "radius": {
+      "atomic predicted": 170,
+      "covalent": 176
+    },
+    "state": {
+      "0 predicted": -1,
+      "1 predicted": 1,
+      "2 predicted": 3,
+      "3 predicted": 5
+    },
+    "shell": {
+      "0": 2,
+      "1": 8,
+      "2": 18,
+      "3": 32,
+      "4": 32,
+      "5": 18,
+      "6": 3
+    },
+    "config": "5f14_6d10_7s2_7p1",
+    "ionization": {
+      "0 predicted": 704.9,
+      "1 predicted": 2240.0,
+      "2 predicted": 3020.0
+    },
+    "pauling": {
+      "0": 0.0
+    },
+    "group": 13,
+    "family": "boron group",
+    "period": 7,
+    "block": "p",
+    "phase": "solid predicted"
+  }],[{
+    "atomic number z": 114,
+    "symbol": "Fl",
+    "name": "Florovium",
+    "mass": 289.0,
+    "change": {
+      "melting predicted": 284.0
+    },
+    "density": {
+      "liquid preticted": 11.4
+
+    },
+    "heat": {
+      "vaporization predicted": 38.0
+    },
+    "radius": {
+      "atomic predicted": 180,
+      "covalent": 174
+    },
+    "state": {
+      "0 predicted": 0,
+      "1 predicted": 1,
+      "2 predicted": 2,
+      "3 predicted": 4,
+      "4 predicted": 6
+    },
+    "shell": {
+      "0": 2,
+      "1": 8,
+      "2": 18,
+      "3": 32,
+      "4": 32,
+      "5": 18,
+      "6": 4
+    },
+    "config": "5f14_6d10_7s2_7p2",
+    "ionization": {
+      "0 predicted": 832.2,
+      "1 predicted": 1600.0,
+      "2 predicted": 3370.0
+    },
+    "pauling": {
+      "0": 0.0
+    },
+    "group": 14,
+    "family": "carbon group",
+    "period": 7,
+    "block": "p",
+    "phase": "liquid predicted"
+  }],[{
+    "atomic number z": 115,
+    "symbol": "Mc",
+    "name": "Moscovium",
+    "mass": 290.0,
+    "change": {
+      "melting predicted": 670.0,
+      "boiling predicted": 1400.0
+    },
+    "density": {
+      "solid preticted": 13.5
+
+    },
+    "heat": {
+      "vaporization predicted": 138.0
+    },
+    "radius": {
+      "atomic predicted": 187,
+      "covalent": 157
+    },
+    "state": {
+      "0 predicted": 1,
+      "1 predicted": 3
+    },
+    "shell": {
+      "0": 2,
+      "1": 8,
+      "2": 18,
+      "3": 32,
+      "4": 32,
+      "5": 18,
+      "6": 5
+    },
+    "config": "5f14_6d10_7s2_7p3",
+    "ionization": {
+      "0 predicted": 538.3,
+      "1 predicted": 1760.0,
+      "2 predicted": 2650.0
+    },
+    "pauling": {
+      "0": 0.0
+    },
+    "group": 15,
+    "family": "pnictogens",
+    "period": 7,
+    "block": "p",
+    "phase": "solid predicted"
+  }],[{
+    "atomic number z": 116,
+    "symbol": "Lv",
+    "name": "Livermorium",
+    "mass": 293.0,
+    "change": {
+      "melting predicted": 700.0,
+      "boiling predicted": 1100.0
+    },
+    "density": {
+      "solid preticted": 12.9
+
+    },
+    "heat": { 
+      "fusion predicted": 7.61,
+      "vaporization predicted": 42.0
+    },
+    "radius": {
+      "atomic predicted": 183,
+      "covalent": 164
+    },
+    "state": {
+      "0 predicted": -2,
+      "1 predicted": 2,
+      "2 predicted": 4
+    },
+    "shell": {
+      "0": 2,
+      "1": 8,
+      "2": 18,
+      "3": 32,
+      "4": 32,
+      "5": 18,
+      "6": 6
+    },
+    "config": "5f14_6d10_7s2_7p4",
+    "ionization": {
+      "0 predicted": 663.9,
+      "1 predicted": 1330.0,
+      "2 predicted": 2850.0
+    },
+    "pauling": {
+      "0": 0.0
+    },
+    "group": 16,
+    "family": "chalcogens",
+    "period": 7,
+    "block": "p",
+    "phase": "solid predicted"
+  }],[{
+    "atomic number z": 117,
+    "symbol": "Ts",
+    "name": "Tennessine",
+    "mass": 294.0,
+    "change": {
+      "melting predicted": 700.0,
+      "boiling predicted": 883.0
+    },
+    "density": {
+      "solid preticted": 7.2
+
+    },
+    "heat": { 
+      "fusion": 0.0
+    },
+    "radius": {
+      "atomic predicted": 138,
+      "covalent": 156
+    },
+    "state": {
+      "0 predicted": -1,
+      "1 predicted": 1,
+      "2 predicted": 3,
+      "3 predicted": 5
+    },
+    "shell": {
+      "0": 2,
+      "1": 8,
+      "2": 18,
+      "3": 32,
+      "4": 32,
+      "5": 18,
+      "6": 7
+    },
+    "config": "5f14_6d10_7s2_7p5",
+    "ionization": {
+      "0 predicted": 742.9,
+      "1 predicted": 1435.4,
+      "2 predicted": 2161.9
+    },
+    "pauling": {
+      "0": 0.0
+    },
+    "group": 17,
+    "family": "halogens",
+    "period": 7,
+    "block": "p",
+    "phase": "solid predicted"
+  }],[{
+    "atomic number z": 118,
+    "symbol": "Og",
+    "name": "Oganesson",
+    "mass": 294.0,
+    "change": {
+      "melting predicted": 325.0,
+      "boiling predicted": 450.0
+    },
+    "density": {
+      "solid predicted": 7.2,
+      "liquid predicted": 6.6
+
+    },
+    "heat": { 
+      "fusion": 0.0
+    },
+    "radius": {
+      "atomic predicted": 152,
+      "covalent": 157
+    },
+    "state": {
+      "0 predicted": -1,
+      "1 predicted": 0,
+      "2 predicted": 1,
+      "3 predicted": 2,
+      "4 predicted": 4,
+      "5 predicted": 6
+    },
+    "shell": {
+      "0": 2,
+      "1": 8,
+      "2": 18,
+      "3": 32,
+      "4": 32,
+      "5": 18,
+      "6": 8
+    },
+    "config": "5f14_6d10_7s2_7p6",
+    "ionization": {
+      "0 predicted": 860.0,
+      "1 predicted": 1560.0
+    },
+    "pauling": {
+      "0": 0.0
+    },
+    "group": 18,
+    "family": "noble gases",
+    "period": 7,
+    "block": "p",
+    "phase": "solid predicted"
+  }
+]]
+

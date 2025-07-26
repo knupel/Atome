@@ -1,0 +1,2246 @@
+{
+  "tableau_periodique": [
+    {
+      "nom_complet": "Hydrogène",
+      "nom_abrege": "H",
+      "nombre_protons": 1,
+      "nombre_neutrons": 0,
+      "nombre_electrons": 1,
+      "temperature_solide": {
+        "valeur": -259.16,
+        "unite": "°C"
+      },
+      "temperature_liquide": {
+        "valeur": -252.87,
+        "unite": "°C"
+      },
+      "temperature_gazeux": {
+        "valeur": -252.87,
+        "unite": "°C"
+      }
+    },
+    {
+      "nom_complet": "Hélium",
+      "nom_abrege": "He",
+      "nombre_protons": 2,
+      "nombre_neutrons": 2,
+      "nombre_electrons": 2,
+      "temperature_solide": {
+        "valeur": "",
+        "unite": "°C"
+      },
+      "temperature_liquide": {
+        "valeur": -272.2,
+        "unite": "°C"
+      },
+      "temperature_gazeux": {
+        "valeur": -268.93,
+        "unite": "°C"
+      }
+    },
+    {
+      "nom_complet": "Lithium",
+      "nom_abrege": "Li",
+      "nombre_protons": 3,
+      "nombre_neutrons": 4,
+      "nombre_electrons": 3,
+      "temperature_solide": {
+        "valeur": 180.5,
+        "unite": "°C"
+      },
+      "temperature_liquide": {
+        "valeur": 453.65,
+        "unite": "°C"
+      },
+      "temperature_gazeux": {
+        "valeur": 1560,
+        "unite": "°C"
+      }
+    },
+    {
+      "nom_complet": "Béryllium",
+      "nom_abrege": "Be",
+      "nombre_protons": 4,
+      "nombre_neutrons": 5,
+      "nombre_electrons": 4,
+      "temperature_solide": {
+        "valeur": 1287,
+        "unite": "°C"
+      },
+      "temperature_liquide": {
+        "valeur": 2742,
+        "unite": "°C"
+      },
+      "temperature_gazeux": {
+        "valeur": "",
+        "unite": "°C"
+      }
+    },
+    {
+      "nom_complet": "Bore",
+      "nom_abrege": "B",
+      "nombre_protons": 5,
+      "nombre_neutrons": 6,
+      "nombre_electrons": 5,
+      "temperature_solide": {
+        "valeur": 2076,
+        "unite": "°C"
+      },
+      "temperature_liquide": {
+        "valeur": 3927,
+        "unite": "°C"
+      },
+      "temperature_gazeux": {
+        "valeur": "",
+        "unite": "°C"
+      }
+    },
+    {
+      "nom_complet": "Carbone",
+      "nom_abrege": "C",
+      "nombre_protons": 6,
+      "nombre_neutrons": 6,
+      "nombre_electrons": 6,
+      "temperature_solide": {
+        "valeur": 3500,
+        "unite": "°C"
+      },
+      "temperature_liquide": {
+        "valeur": "",
+        "unite": "°C"
+      },
+      "temperature_gazeux": {
+        "valeur": "",
+        "unite": "°C"
+      }
+    },
+    {
+      "nom_complet": "Azote",
+      "nom_abrege": "N",
+      "nombre_protons": 7,
+      "nombre_neutrons": 7,
+      "nombre_electrons": 7,
+      "temperature_solide": {
+        "valeur": -210.0,
+        "unite": "°C"
+      },
+      "temperature_liquide": {
+        "valeur": -195.79,
+        "unite": "°C"
+      },
+      "temperature_gazeux": {
+        "valeur": -195.79,
+        "unite": "°C"
+      }
+    },
+    {
+      "nom_complet": "Oxygène",
+      "nom_abrege": "O",
+      "nombre_protons": 8,
+      "nombre_neutrons": 8,
+      "nombre_electrons": 8,
+      "temperature_solide": {
+        "valeur": -218.79,
+        "unite": "°C"
+      },
+      "temperature_liquide": {
+        "valeur": -182.96,
+        "unite": "°C"
+      },
+      "temperature_gazeux": {
+        "valeur": -182.96,
+        "unite": "°C"
+      }
+    },
+    {
+      "nom_complet": "Fluor",
+      "nom_abrege": "F",
+      "nombre_protons": 9,
+      "nombre_neutrons": 10,
+      "nombre_electrons": 9,
+      "temperature_solide": {
+        "valeur": -219.67,
+        "unite": "°C"
+      },
+      "temperature_liquide": {
+        "valeur": -188.11,
+        "unite": "°C"
+      },
+      "temperature_gazeux": {
+        "valeur": -188.11,
+        "unite": "°C"
+      }
+    },
+    {
+      "nom_complet": "Néon",
+      "nom_abrege": "Ne",
+      "nombre_protons": 10,
+      "nombre_neutrons": 10,
+      "nombre_electrons": 10,
+      "temperature_solide": {
+        "valeur": -248.59,
+        "unite": "°C"
+      },
+      "temperature_liquide": {
+        "valeur": -246.08,
+        "unite": "°C"
+      },
+      "temperature_gazeux": {
+        "valeur": -246.08,
+        "unite": "°C"
+      }
+    },
+    {
+      "nom_complet": "Sodium",
+      "nom_abrege": "Na",
+      "nombre_protons": 11,
+      "nombre_neutrons": 12,
+      "nombre_electrons": 11,
+      "temperature_solide": {
+        "valeur": 97.72,
+        "unite": "°C"
+      },
+      "temperature_liquide": {
+        "valeur": 882.95,
+        "unite": "°C"
+      },
+      "temperature_gazeux": {
+        "valeur": 1156,
+        "unite": "°C"
+      }
+    },
+    {
+      "nom_complet": "Magnésium",
+      "nom_abrege": "Mg",
+      "nombre_protons": 12,
+      "nombre_neutrons": 12,
+      "nombre_electrons": 12,
+      "temperature_solide": {
+        "valeur": 650,
+        "unite": "°C"
+      },
+      "temperature_liquide": {
+        "valeur": 1090,
+        "unite": "°C"
+      },
+      "temperature_gazeux": {
+        "valeur": "",
+        "unite": "°C"
+      }
+    },
+    {
+      "nom_complet": "Aluminium",
+      "nom_abrege": "Al",
+      "nombre_protons": 13,
+      "nombre_neutrons": 14,
+      "nombre_electrons": 13,
+      "temperature_solide": {
+        "valeur": 660.32,
+        "unite": "°C"
+      },
+      "temperature_liquide": {
+        "valeur": 2743,
+        "unite": "°C"
+      },
+      "temperature_gazeux": {
+        "valeur": "",
+        "unite": "°C"
+      }
+    },
+    {
+      "nom_complet": "Silicium",
+      "nom_abrege": "Si",
+      "nombre_protons": 14,
+      "nombre_neutrons": 14,
+      "nombre_electrons": 14,
+      "temperature_solide": {
+        "valeur": 1414,
+        "unite": "°C"
+      },
+      "temperature_liquide": {
+        "valeur": 3538,
+        "unite": "°C"
+      },
+      "temperature_gazeux": {
+        "valeur": "",
+        "unite": "°C"
+      }
+    },
+    {
+      "nom_complet": "Phosphore",
+      "nom_abrege": "P",
+      "nombre_protons": 15,
+      "nombre_neutrons": 16,
+      "nombre_electrons": 15,
+      "temperature_solide": {
+        "valeur": 44.15,
+        "unite": "°C"
+      },
+      "temperature_liquide": {
+        "valeur": 280.5,
+        "unite": "°C"
+      },
+      "temperature_gazeux": {
+        "valeur": 550,
+        "unite": "°C"
+      }
+    },
+    {
+      "nom_complet": "Soufre",
+      "nom_abrege": "S",
+      "nombre_protons": 16,
+      "nombre_neutrons": 16,
+      "nombre_electrons": 16,
+      "temperature_solide": {
+        "valeur": 115.21,
+        "unite": "°C"
+      },
+      "temperature_liquide": {
+        "valeur": 444.6,
+        "unite": "°C"
+      },
+      "temperature_gazeux": {
+        "valeur": "",
+        "unite": "°C"
+      }
+    },
+    {
+      "nom_complet": "Chlore",
+      "nom_abrege": "Cl",
+      "nombre_protons": 17,
+      "nombre_neutrons": 18,
+      "nombre_electrons": 17,
+      "temperature_solide": {
+        "valeur": -101.5,
+        "unite": "°C"
+      },
+      "temperature_liquide": {
+        "valeur": -34.04,
+        "unite": "°C"
+      },
+      "temperature_gazeux": {
+        "valeur": -34.04,
+        "unite": "°C"
+      }
+    },
+    {
+      "nom_complet": "Argon",
+      "nom_abrege": "Ar",
+      "nombre_protons": 18,
+      "nombre_neutrons": 22,
+      "nombre_electrons": 18,
+      "temperature_solide": {
+        "valeur": -189.35,
+        "unite": "°C"
+      },
+      "temperature_liquide": {
+        "valeur": -185.85,
+        "unite": "°C"
+      },
+      "temperature_gazeux": {
+        "valeur": -185.85,
+        "unite": "°C"
+      }
+    },
+    {
+      "nom_complet": "Potassium",
+      "nom_abrege": "K",
+      "nombre_protons": 19,
+      "nombre_neutrons": 20,
+      "nombre_electrons": 19,
+      "temperature_solide": {
+        "valeur": 63.5,
+        "unite": "°C"
+      },
+      "temperature_liquide": {
+        "valeur": 759,
+        "unite": "°C"
+      },
+      "temperature_gazeux": {
+        "valeur": "",
+        "unite": "°C"
+      }
+    },
+    {
+      "nom_complet": "Calcium",
+      "nom_abrege": "Ca",
+      "nombre_protons": 20,
+      "nombre_neutrons": 20,
+      "nombre_electrons": 20,
+      "temperature_solide": {
+        "valeur": 842,
+        "unite": "°C"
+      },
+      "temperature_liquide": {
+        "valeur": 1484,
+        "unite": "°C"
+      },
+      "temperature_gazeux": {
+        "valeur": "",
+        "unite": "°C"
+      }
+    },
+    {
+      "nom_complet": "Scandium",
+      "nom_abrege": "Sc",
+      "nombre_protons": 21,
+      "nombre_neutrons": 24,
+      "nombre_electrons": 21,
+      "temperature_solide": {
+        "valeur": 1541,
+        "unite": "°C"
+      },
+      "temperature_liquide": {
+        "valeur": 2836,
+        "unite": "°C"
+      },
+      "temperature_gazeux": {
+        "valeur": "",
+        "unite": "°C"
+      }
+    },
+    {
+      "nom_complet": "Titane",
+      "nom_abrege": "Ti",
+      "nombre_protons": 22,
+      "nombre_neutrons": 26,
+      "nombre_electrons": 22,
+      "temperature_solide": {
+        "valeur": 1668,
+        "unite": "°C"
+      },
+      "temperature_liquide": {
+        "valeur": 3287,
+        "unite": "°C"
+      },
+      "temperature_gazeux": {
+        "valeur": "",
+        "unite": "°C"
+      }
+    },
+    {
+      "nom_complet": "Vanadium",
+      "nom_abrege": "V",
+      "nombre_protons": 23,
+      "nombre_neutrons": 28,
+      "nombre_electrons": 23,
+      "temperature_solide": {
+        "valeur": 1910,
+        "unite": "°C"
+      },
+      "temperature_liquide": {
+        "valeur": 3407,
+        "unite": "°C"
+      },
+      "temperature_gazeux": {
+        "valeur": "",
+        "unite": "°C"
+      }
+    },
+    {
+      "nom_complet": "Chrome",
+      "nom_abrege": "Cr",
+      "nombre_protons": 24,
+      "nombre_neutrons": 28,
+      "nombre_electrons": 24,
+      "temperature_solide": {
+        "valeur": 1907,
+        "unite": "°C"
+      },
+      "temperature_liquide": {
+        "valeur": 2671,
+        "unite": "°C"
+      },
+      "temperature_gazeux": {
+        "valeur": "",
+        "unite": "°C"
+      }
+    },
+    {
+      "nom_complet": "Manganèse",
+      "nom_abrege": "Mn",
+      "nombre_protons": 25,
+      "nombre_neutrons": 30,
+      "nombre_electrons": 25,
+      "temperature_solide": {
+        "valeur": 1246,
+        "unite": "°C"
+      },
+      "temperature_liquide": {
+        "valeur": 2061,
+        "unite": "°C"
+      },
+      "temperature_gazeux": {
+        "valeur": "",
+        "unite": "°C"
+      }
+    },
+    {
+      "nom_complet": "Fer",
+      "nom_abrege": "Fe",
+      "nombre_protons": 26,
+      "nombre_neutrons": 30,
+      "nombre_electrons": 26,
+      "temperature_solide": {
+        "valeur": 1538,
+        "unite": "°C"
+      },
+      "temperature_liquide": {
+        "valeur": 2862,
+        "unite": "°C"
+      },
+      "temperature_gazeux": {
+        "valeur": "",
+        "unite": "°C"
+      }
+    },
+    {
+      "nom_complet": "Cobalt",
+      "nom_abrege": "Co",
+      "nombre_protons": 27,
+      "nombre_neutrons": 32,
+      "nombre_electrons": 27,
+      "temperature_solide": {
+        "valeur": 1495,
+        "unite": "°C"
+      },
+      "temperature_liquide": {
+        "valeur": 2927,
+        "unite": "°C"
+      },
+      "temperature_gazeux": {
+        "valeur": "",
+        "unite": "°C"
+      }
+    },
+    {
+      "nom_complet": "Nickel",
+      "nom_abrege": "Ni",
+      "nombre_protons": 28,
+      "nombre_neutrons": 31,
+      "nombre_electrons": 28,
+      "temperature_solide": {
+        "valeur": 1455,
+        "unite": "°C"
+      },
+      "temperature_liquide": {
+        "valeur": 2913,
+        "unite": "°C"
+      },
+      "temperature_gazeux": {
+        "valeur": "",
+        "unite": "°C"
+      }
+    },
+    {
+      "nom_complet": "Cuivre",
+      "nom_abrege": "Cu",
+      "nombre_protons": 29,
+      "nombre_neutrons": 35,
+      "nombre_electrons": 29,
+      "temperature_solide": {
+        "valeur": 1084.62,
+        "unite": "°C"
+      },
+      "temperature_liquide": {
+        "valeur": 2562,
+        "unite": "°C"
+      },
+      "temperature_gazeux": {
+        "valeur": "",
+        "unite": "°C"
+      }
+    },
+    {
+      "nom_complet": "Zinc",
+      "nom_abrege": "Zn",
+      "nombre_protons": 30,
+      "nombre_neutrons": 35,
+      "nombre_electrons": 30,
+      "temperature_solide": {
+        "valeur": 419.53,
+        "unite": "°C"
+      },
+      "temperature_liquide": {
+        "valeur": 907,
+        "unite": "°C"
+      },
+      "temperature_gazeux": {
+        "valeur": "",
+        "unite": "°C"
+      }
+    },
+    {
+      "nom_complet": "Gallium",
+      "nom_abrege": "Ga",
+      "nombre_protons": 31,
+      "nombre_neutrons": 39,
+      "nombre_electrons": 31,
+      "temperature_solide": {
+        "valeur": 29.76,
+        "unite": "°C"
+      },
+      "temperature_liquide": {
+        "valeur": 2204,
+        "unite": "°C"
+      },
+      "temperature_gazeux": {
+        "valeur": "",
+        "unite": "°C"
+      }
+    },
+    {
+      "nom_complet": "Germanium",
+      "nom_abrege": "Ge",
+      "nombre_protons": 32,
+      "nombre_neutrons": 41,
+      "nombre_electrons": 32,
+      "temperature_solide": {
+        "valeur": 938.25,
+        "unite": "°C"
+      },
+      "temperature_liquide": {
+        "valeur": 2833,
+        "unite": "°C"
+      },
+      "temperature_gazeux": {
+        "valeur": "",
+        "unite": "°C"
+      }
+    },
+    {
+      "nom_complet": "Arsenic",
+      "nom_abrege": "As",
+      "nombre_protons": 33,
+      "nombre_neutrons": 42,
+      "nombre_electrons": 33,
+      "temperature_solide": {
+        "valeur": 817,
+        "unite": "°C"
+      },
+      "temperature_liquide": {
+        "valeur": "",
+        "unite": "°C"
+      },
+      "temperature_gazeux": {
+        "valeur": 887,
+        "unite": "°C"
+      }
+    },
+    {
+      "nom_complet": "Sélénium",
+      "nom_abrege": "Se",
+      "nombre_protons": 34,
+      "nombre_neutrons": 45,
+      "nombre_electrons": 34,
+      "temperature_solide": {
+        "valeur": 220.8,
+        "unite": "°C"
+      },
+      "temperature_liquide": {
+        "valeur": 685,
+        "unite": "°C"
+      },
+      "temperature_gazeux": {
+        "valeur": "",
+        "unite": "°C"
+      }
+    },
+    {
+      "nom_complet": "Brome",
+      "nom_abrege": "Br",
+      "nombre_protons": 35,
+      "nombre_neutrons": 45,
+      "nombre_electrons": 35,
+      "temperature_solide": {
+        "valeur": -7.2,
+        "unite": "°C"
+      },
+      "temperature_liquide": {
+        "valeur": 58.8,
+        "unite": "°C"
+      },
+      "temperature_gazeux": {
+        "valeur": 58.8,
+        "unite": "°C"
+      }
+    },
+    {
+      "nom_complet": "Krypton",
+      "nom_abrege": "Kr",
+      "nombre_protons": 36,
+      "nombre_neutrons": 48,
+      "nombre_electrons": 36,
+      "temperature_solide": {
+        "valeur": -157.36,
+        "unite": "°C"
+      },
+      "temperature_liquide": {
+        "valeur": -153.41,
+        "unite": "°C"
+      },
+      "temperature_gazeux": {
+        "valeur": -153.41,
+        "unite": "°C"
+      }
+    },
+    {
+      "nom_complet": "Rubidium",
+      "nom_abrege": "Rb",
+      "nombre_protons": 37,
+      "nombre_neutrons": 48,
+      "nombre_electrons": 37,
+      "temperature_solide": {
+        "valeur": 39.3,
+        "unite": "°C"
+      },
+      "temperature_liquide": {
+        "valeur": 688,
+        "unite": "°C"
+      },
+      "temperature_gazeux": {
+        "valeur": "",
+        "unite": "°C"
+      }
+    },
+    {
+      "nom_complet": "Strontium",
+      "nom_abrege": "Sr",
+      "nombre_protons": 38,
+      "nombre_neutrons": 50,
+      "nombre_electrons": 38,
+      "temperature_solide": {
+        "valeur": 777,
+        "unite": "°C"
+      },
+      "temperature_liquide": {
+        "valeur": 1382,
+        "unite": "°C"
+      },
+      "temperature_gazeux": {
+        "valeur": "",
+        "unite": "°C"
+      }
+    },
+    {
+      "nom_complet": "Yttrium",
+      "nom_abrege": "Y",
+      "nombre_protons": 39,
+      "nombre_neutrons": 50,
+      "nombre_electrons": 39,
+      "temperature_solide": {
+        "valeur": 1526,
+        "unite": "°C"
+      },
+      "temperature_liquide": {
+        "valeur": 3345,
+        "unite": "°C"
+      },
+      "temperature_gazeux": {
+        "valeur": "",
+        "unite": "°C"
+      }
+    },
+    {
+      "nom_complet": "Zirconium",
+      "nom_abrege": "Zr",
+      "nombre_protons": 40,
+      "nombre_neutrons": 51,
+      "nombre_electrons": 40,
+      "temperature_solide": {
+        "valeur": 1855,
+        "unite": "°C"
+      },
+      "temperature_liquide": {
+        "valeur": 4409,
+        "unite": "°C"
+      },
+      "temperature_gazeux": {
+        "valeur": "",
+        "unite": "°C"
+      }
+    },
+    {
+      "nom_complet": "Niobium",
+      "nom_abrege": "Nb",
+      "nombre_protons": 41,
+      "nombre_neutrons": 52,
+      "nombre_electrons": 41,
+      "temperature_solide": {
+        "valeur": 2477,
+        "unite": "°C"
+      },
+      "temperature_liquide": {
+        "valeur": 4744,
+        "unite": "°C"
+      },
+      "temperature_gazeux": {
+        "valeur": "",
+        "unite": "°C"
+      }
+    },
+    {
+      "nom_complet": "Molybdène",
+      "nom_abrege": "Mo",
+      "nombre_protons": 42,
+      "nombre_neutrons": 54,
+      "nombre_electrons": 42,
+      "temperature_solide": {
+        "valeur": 2623,
+        "unite": "°C"
+      },
+      "temperature_liquide": {
+        "valeur": 4639,
+        "unite": "°C"
+      },
+      "temperature_gazeux": {
+        "valeur": "",
+        "unite": "°C"
+      }
+    },
+    {
+      "nom_complet": "Technétium",
+      "nom_abrege": "Tc",
+      "nombre_protons": 43,
+      "nombre_neutrons": 55,
+      "nombre_electrons": 43,
+      "temperature_solide": {
+        "valeur": 2157,
+        "unite": "°C"
+      },
+      "temperature_liquide": {
+        "valeur": 4265,
+        "unite": "°C"
+      },
+      "temperature_gazeux": {
+        "valeur": "",
+        "unite": "°C"
+      }
+    },
+    {
+      "nom_complet": "Ruthénium",
+      "nom_abrege": "Ru",
+      "nombre_protons": 44,
+      "nombre_neutrons": 57,
+      "nombre_electrons": 44,
+      "temperature_solide": {
+        "valeur": 2334,
+        "unite": "°C"
+      },
+      "temperature_liquide": {
+        "valeur": 4150,
+        "unite": "°C"
+      },
+      "temperature_gazeux": {
+        "valeur": "",
+        "unite": "°C"
+      }
+    },
+    {
+      "nom_complet": "Rhodium",
+      "nom_abrege": "Rh",
+      "nombre_protons": 45,
+      "nombre_neutrons": 58,
+      "nombre_electrons": 45,
+      "temperature_solide": {
+        "valeur": 1964,
+        "unite": "°C"
+      },
+      "temperature_liquide": {
+        "valeur": 3695,
+        "unite": "°C"
+      },
+      "temperature_gazeux": {
+        "valeur": "",
+        "unite": "°C"
+      }
+    },
+    {
+      "nom_complet": "Palladium",
+      "nom_abrege": "Pd",
+      "nombre_protons": 46,
+      "nombre_neutrons": 60,
+      "nombre_electrons": 46,
+      "temperature_solide": {
+        "valeur": 1554.9,
+        "unite": "°C"
+      },
+      "temperature_liquide": {
+        "valeur": 2963,
+        "unite": "°C"
+      },
+      "temperature_gazeux": {
+        "valeur": "",
+        "unite": "°C"
+      }
+    },
+    {
+      "nom_complet": "Argent",
+      "nom_abrege": "Ag",
+      "nombre_protons": 47,
+      "nombre_neutrons": 61,
+      "nombre_electrons": 47,
+      "temperature_solide": {
+        "valeur": 961.78,
+        "unite": "°C"
+      },
+      "temperature_liquide": {
+        "valeur": 2162,
+        "unite": "°C"
+      },
+      "temperature_gazeux": {
+        "valeur": "",
+        "unite": "°C"
+      }
+    },
+    {
+      "nom_complet": "Cadmium",
+      "nom_abrege": "Cd",
+      "nombre_protons": 48,
+      "nombre_neutrons": 64,
+      "nombre_electrons": 48,
+      "temperature_solide": {
+        "valeur": 321.07,
+        "unite": "°C"
+      },
+      "temperature_liquide": {
+        "valeur": 767,
+        "unite": "°C"
+      },
+      "temperature_gazeux": {
+        "valeur": "",
+        "unite": "°C"
+      }
+    },
+    {
+      "nom_complet": "Indium",
+      "nom_abrege": "In",
+      "nombre_protons": 49,
+      "nombre_neutrons": 66,
+      "nombre_electrons": 49,
+      "temperature_solide": {
+        "valeur": 156.6,
+        "unite": "°C"
+      },
+      "temperature_liquide": {
+        "valeur": 2072,
+        "unite": "°C"
+      },
+      "temperature_gazeux": {
+        "valeur": "",
+        "unite": "°C"
+      }
+    },
+    {
+      "nom_complet": "Étain",
+      "nom_abrege": "Sn",
+      "nombre_protons": 50,
+      "nombre_neutrons": 69,
+      "nombre_electrons": 50,
+      "temperature_solide": {
+        "valeur": 231.93,
+        "unite": "°C"
+      },
+      "temperature_liquide": {
+        "valeur": 2602,
+        "unite": "°C"
+      },
+      "temperature_gazeux": {
+        "valeur": "",
+        "unite": "°C"
+      }
+    },
+    {
+      "nom_complet": "Antimoine",
+      "nom_abrege": "Sb",
+      "nombre_protons": 51,
+      "nombre_neutrons": 71,
+      "nombre_electrons": 51,
+      "temperature_solide": {
+        "valeur": 630.63,
+        "unite": "°C"
+      },
+      "temperature_liquide": {
+        "valeur": 1587,
+        "unite": "°C"
+      },
+      "temperature_gazeux": {
+        "valeur": "",
+        "unite": "°C"
+      }
+    },
+    {
+      "nom_complet": "Tellure",
+      "nom_abrege": "Te",
+      "nombre_protons": 52,
+      "nombre_neutrons": 76,
+      "nombre_electrons": 52,
+      "temperature_solide": {
+        "valeur": 449.51,
+        "unite": "°C"
+      },
+      "temperature_liquide": {
+        "valeur": 988,
+        "unite": "°C"
+      },
+      "temperature_gazeux": {
+        "valeur": "",
+        "unite": "°C"
+      }
+    },
+    {
+      "nom_complet": "Iode",
+      "nom_abrege": "I",
+      "nombre_protons": 53,
+      "nombre_neutrons": 74,
+      "nombre_electrons": 53,
+      "temperature_solide": {
+        "valeur": 113.7,
+        "unite": "°C"
+      },
+      "temperature_liquide": {
+        "valeur": 184.3,
+        "unite": "°C"
+      },
+      "temperature_gazeux": {
+        "valeur": 184.3,
+        "unite": "°C"
+      }
+    },
+    {
+      "nom_complet": "Xénon",
+      "nom_abrege": "Xe",
+      "nombre_protons": 54,
+      "nombre_neutrons": 77,
+      "nombre_electrons": 54,
+      "temperature_solide": {
+        "valeur": -111.75,
+        "unite": "°C"
+      },
+      "temperature_liquide": {
+        "valeur": -108.09,
+        "unite": "°C"
+      },
+      "temperature_gazeux": {
+        "valeur": -108.09,
+        "unite": "°C"
+      }
+    },
+    {
+      "nom_complet": "Césium",
+      "nom_abrege": "Cs",
+      "nombre_protons": 55,
+      "nombre_neutrons": 78,
+      "nombre_electrons": 55,
+      "temperature_solide": {
+        "valeur": 28.44,
+        "unite": "°C"
+      },
+      "temperature_liquide": {
+        "valeur": 671,
+        "unite": "°C"
+      },
+      "temperature_gazeux": {
+        "valeur": "",
+        "unite": "°C"
+      }
+    },
+    {
+      "nom_complet": "Baryum",
+      "nom_abrege": "Ba",
+      "nombre_protons": 56,
+      "nombre_neutrons": 81,
+      "nombre_electrons": 56,
+      "temperature_solide": {
+        "valeur": 727,
+        "unite": "°C"
+      },
+      "temperature_liquide": {
+        "valeur": 1870,
+        "unite": "°C"
+      },
+      "temperature_gazeux": {
+        "valeur": "",
+        "unite": "°C"
+      }
+    },
+    {
+      "nom_complet": "Lanthane",
+      "nom_abrege": "La",
+      "nombre_protons": 57,
+      "nombre_neutrons": 82,
+      "nombre_electrons": 57,
+      "temperature_solide": {
+        "valeur": 920,
+        "unite": "°C"
+      },
+      "temperature_liquide": {
+        "valeur": 3464,
+        "unite": "°C"
+      },
+      "temperature_gazeux": {
+        "valeur": "",
+        "unite": "°C"
+      }
+    },
+    {
+      "nom_complet": "Cérium",
+      "nom_abrege": "Ce",
+      "nombre_protons": 58,
+      "nombre_neutrons": 82,
+      "nombre_electrons": 58,
+      "temperature_solide": {
+        "valeur": 795,
+        "unite": "°C"
+      },
+      "temperature_liquide": {
+        "valeur": 3443,
+        "unite": "°C"
+      },
+      "temperature_gazeux": {
+        "valeur": "",
+        "unite": "°C"
+      }
+    },
+    {
+      "nom_complet": "Praséodyme",
+      "nom_abrege": "Pr",
+      "nombre_protons": 59,
+      "nombre_neutrons": 82,
+      "nombre_electrons": 59,
+      "temperature_solide": {
+        "valeur": 931,
+        "unite": "°C"
+      },
+      "temperature_liquide": {
+        "valeur": 3520,
+        "unite": "°C"
+      },
+      "temperature_gazeux": {
+        "valeur": "",
+        "unite": "°C"
+      }
+    },
+    {
+      "nom_complet": "Néodyme",
+      "nom_abrege": "Nd",
+      "nombre_protons": 60,
+      "nombre_neutrons": 84,
+      "nombre_electrons": 60,
+      "temperature_solide": {
+        "valeur": 1021,
+        "unite": "°C"
+      },
+      "temperature_liquide": {
+        "valeur": 3074,
+        "unite": "°C"
+      },
+      "temperature_gazeux": {
+        "valeur": "",
+        "unite": "°C"
+      }
+    },
+    {
+      "nom_complet": "Prométhium",
+      "nom_abrege": "Pm",
+      "nombre_protons": 61,
+      "nombre_neutrons": 84,
+      "nombre_electrons": 61,
+      "temperature_solide": {
+        "valeur": 1042,
+        "unite": "°C"
+      },
+      "temperature_liquide": {
+        "valeur": 3000,
+        "unite": "°C"
+      },
+      "temperature_gazeux": {
+        "valeur": "",
+        "unite": "°C"
+      }
+    },
+    {
+      "nom_complet": "Samarium",
+      "nom_abrege": "Sm",
+      "nombre_protons": 62,
+      "nombre_neutrons": 88,
+      "nombre_electrons": 62,
+      "temperature_solide": {
+        "valeur": 1072,
+        "unite": "°C"
+      },
+      "temperature_liquide": {
+        "valeur": 1794,
+        "unite": "°C"
+      },
+      "temperature_gazeux": {
+        "valeur": "",
+        "unite": "°C"
+      }
+    },
+    {
+      "nom_complet": "Europium",
+      "nom_abrege": "Eu",
+      "nombre_protons": 63,
+      "nombre_neutrons": 89,
+      "nombre_electrons": 63,
+      "temperature_solide": {
+        "valeur": 822,
+        "unite": "°C"
+      },
+      "temperature_liquide": {
+        "valeur": 1529,
+        "unite": "°C"
+      },
+      "temperature_gazeux": {
+        "valeur": "",
+        "unite": "°C"
+      }
+    },
+    {
+      "nom_complet": "Gadolinium",
+      "nom_abrege": "Gd",
+      "nombre_protons": 64,
+      "nombre_neutrons": 93,
+      "nombre_electrons": 64,
+      "temperature_solide": {
+        "valeur": 1312,
+        "unite": "°C"
+      },
+      "temperature_liquide": {
+        "valeur": 3273,
+        "unite": "°C"
+      },
+      "temperature_gazeux": {
+        "valeur": "",
+        "unite": "°C"
+      }
+    },
+    {
+      "nom_complet": "Terbium",
+      "nom_abrege": "Tb",
+      "nombre_protons": 65,
+      "nombre_neutrons": 94,
+      "nombre_electrons": 65,
+      "temperature_solide": {
+        "valeur": 1356,
+        "unite": "°C"
+      },
+      "temperature_liquide": {
+        "valeur": 3230,
+        "unite": "°C"
+      },
+      "temperature_gazeux": {
+        "valeur": "",
+        "unite": "°C"
+      }
+    },
+    {
+      "nom_complet": "Dysprosium",
+      "nom_abrege": "Dy",
+      "nombre_protons": 66,
+      "nombre_neutrons": 97,
+      "nombre_electrons": 66,
+      "temperature_solide": {
+        "valeur": 1412,
+        "unite": "°C"
+      },
+      "temperature_liquide": {
+        "valeur": 2567,
+        "unite": "°C"
+      },
+      "temperature_gazeux": {
+        "valeur": "",
+        "unite": "°C"
+      }
+    },
+    {
+      "nom_complet": "Holmium",
+      "nom_abrege": "Ho",
+      "nombre_protons": 67,
+      "nombre_neutrons": 98,
+      "nombre_electrons": 67,
+      "temperature_solide": {
+        "valeur": 1461,
+        "unite": "°C"
+      },
+      "temperature_liquide": {
+        "valeur": 2720,
+        "unite": "°C"
+      },
+      "temperature_gazeux": {
+        "valeur": "",
+        "unite": "°C"
+      }
+    },
+    {
+      "nom_complet": "Erbium",
+      "nom_abrege": "Er",
+      "nombre_protons": 68,
+      "nombre_neutrons": 99,
+      "nombre_electrons": 68,
+      "temperature_solide": {
+        "valeur": 1529,
+        "unite": "°C"
+      },
+      "temperature_liquide": {
+        "valeur": 2868,
+        "unite": "°C"
+      },
+      "temperature_gazeux": {
+        "valeur": "",
+        "unite": "°C"
+      }
+    },
+    {
+      "nom_complet": "Thulium",
+      "nom_abrege": "Tm",
+      "nombre_protons": 69,
+      "nombre_neutrons": 100,
+      "nombre_electrons": 69,
+      "temperature_solide": {
+        "valeur": 1545,
+        "unite": "°C"
+      },
+      "temperature_liquide": {
+        "valeur": 1950,
+        "unite": "°C"
+      },
+      "temperature_gazeux": {
+        "valeur": "",
+        "unite": "°C"
+      }
+    },
+    {
+      "nom_complet": "Ytterbium",
+      "nom_abrege": "Yb",
+      "nombre_protons": 70,
+      "nombre_neutrons": 103,
+      "nombre_electrons": 70,
+      "temperature_solide": {
+        "valeur": 819,
+        "unite": "°C"
+      },
+      "temperature_liquide": {
+        "valeur": 1196,
+        "unite": "°C"
+      },
+      "temperature_gazeux": {
+        "valeur": "",
+        "unite": "°C"
+      }
+    },
+    {
+      "nom_complet": "Lutétium",
+      "nom_abrege": "Lu",
+      "nombre_protons": 71,
+      "nombre_neutrons": 104,
+      "nombre_electrons": 71,
+      "temperature_solide": {
+        "valeur": 1663,
+        "unite": "°C"
+      },
+      "temperature_liquide": {
+        "valeur": 3402,
+        "unite": "°C"
+      },
+      "temperature_gazeux": {
+        "valeur": "",
+        "unite": "°C"
+      }
+    },
+    {
+      "nom_complet": "Hafnium",
+      "nom_abrege": "Hf",
+      "nombre_protons": 72,
+      "nombre_neutrons": 106,
+      "nombre_electrons": 72,
+      "temperature_solide": {
+        "valeur": 2233,
+        "unite": "°C"
+      },
+      "temperature_liquide": {
+        "valeur": 4603,
+        "unite": "°C"
+      },
+      "temperature_gazeux": {
+        "valeur": "",
+        "unite": "°C"
+      }
+    },
+    {
+      "nom_complet": "Tantale",
+      "nom_abrege": "Ta",
+      "nombre_protons": 73,
+      "nombre_neutrons": 108,
+      "nombre_electrons": 73,
+      "temperature_solide": {
+        "valeur": 3017,
+        "unite": "°C"
+      },
+      "temperature_liquide": {
+        "valeur": 5458,
+        "unite": "°C"
+      },
+      "temperature_gazeux": {
+        "valeur": "",
+        "unite": "°C"
+      }
+    },
+    {
+      "nom_complet": "Tungstène",
+      "nom_abrege": "W",
+      "nombre_protons": 74,
+      "nombre_neutrons": 110,
+      "nombre_electrons": 74,
+      "temperature_solide": {
+        "valeur": 3422,
+        "unite": "°C"
+      },
+      "temperature_liquide": {
+        "valeur": 5555,
+        "unite": "°C"
+      },
+      "temperature_gazeux": {
+        "valeur": "",
+        "unite": "°C"
+      }
+    },
+    {
+      "nom_complet": "Rhénium",
+      "nom_abrege": "Re",
+      "nombre_protons": 75,
+      "nombre_neutrons": 111,
+      "nombre_electrons": 75,
+      "temperature_solide": {
+        "valeur": 3186,
+        "unite": "°C"
+      },
+      "temperature_liquide": {
+        "valeur": 5596,
+        "unite": "°C"
+      },
+      "temperature_gazeux": {
+        "valeur": "",
+        "unite": "°C"
+      }
+    },
+    {
+      "nom_complet": "Osmium",
+      "nom_abrege": "Os",
+      "nombre_protons": 76,
+      "nombre_neutrons": 114,
+      "nombre_electrons": 76,
+      "temperature_solide": {
+        "valeur": 3033,
+        "unite": "°C"
+      },
+      "temperature_liquide": {
+        "valeur": 5012,
+        "unite": "°C"
+      },
+      "temperature_gazeux": {
+        "valeur": "",
+        "unite": "°C"
+      }
+    },
+    {
+      "nom_complet": "Iridium",
+      "nom_abrege": "Ir",
+      "nombre_protons": 77,
+      "nombre_neutrons": 115,
+      "nombre_electrons": 77,
+      "temperature_solide": {
+        "valeur": 2466,
+        "unite": "°C"
+      },
+      "temperature_liquide": {
+        "valeur": 4428,
+        "unite": "°C"
+      },
+      "temperature_gazeux": {
+        "valeur": "",
+        "unite": "°C"
+      }
+    },
+    {
+      "nom_complet": "Platine",
+      "nom_abrege": "Pt",
+      "nombre_protons": 78,
+      "nombre_neutrons": 117,
+      "nombre_electrons": 78,
+      "temperature_solide": {
+        "valeur": 1768.3,
+        "unite": "°C"
+      },
+      "temperature_liquide": {
+        "valeur": 3825,
+        "unite": "°C"
+      },
+      "temperature_gazeux": {
+        "valeur": "",
+        "unite": "°C"
+      }
+    },
+    {
+      "nom_complet": "Or",
+      "nom_abrege": "Au",
+      "nombre_protons": 79,
+      "nombre_neutrons": 118,
+      "nombre_electrons": 79,
+      "temperature_solide": {
+        "valeur": 1064.18,
+        "unite": "°C"
+      },
+      "temperature_liquide": {
+        "valeur": 2856,
+        "unite": "°C"
+      },
+      "temperature_gazeux": {
+        "valeur": "",
+        "unite": "°C"
+      }
+    },
+    {
+      "nom_complet": "Mercure",
+      "nom_abrege": "Hg",
+      "nombre_protons": 80,
+      "nombre_neutrons": 121,
+      "nombre_electrons": 80,
+      "temperature_solide": {
+        "valeur": -38.83,
+        "unite": "°C"
+      },
+      "temperature_liquide": {
+        "valeur": 356.73,
+        "unite": "°C"
+      },
+      "temperature_gazeux": {
+        "valeur": 356.73,
+        "unite": "°C"
+      }
+    },
+    {
+      "nom_complet": "Thallium",
+      "nom_abrege": "Tl",
+      "nombre_protons": 81,
+      "nombre_neutrons": 123,
+      "nombre_electrons": 81,
+      "temperature_solide": {
+        "valeur": 304,
+        "unite": "°C"
+      },
+      "temperature_liquide": {
+        "valeur": 1473,
+        "unite": "°C"
+      },
+      "temperature_gazeux": {
+        "valeur": "",
+        "unite": "°C"
+      }
+    },
+    {
+      "nom_complet": "Plomb",
+      "nom_abrege": "Pb",
+      "nombre_protons": 82,
+      "nombre_neutrons": 125,
+      "nombre_electrons": 82,
+      "temperature_solide": {
+        "valeur": 327.46,
+        "unite": "°C"
+      },
+      "temperature_liquide": {
+        "valeur": 1749,
+        "unite": "°C"
+      },
+      "temperature_gazeux": {
+        "valeur": "",
+        "unite": "°C"
+      }
+    },
+    {
+      "nom_complet": "Bismuth",
+      "nom_abrege": "Bi",
+      "nombre_protons": 83,
+      "nombre_neutrons": 126,
+      "nombre_electrons": 83,
+      "temperature_solide": {
+        "valeur": 271.5,
+        "unite": "°C"
+      },
+      "temperature_liquide": {
+        "valeur": 1564,
+        "unite": "°C"
+      },
+      "temperature_gazeux": {
+        "valeur": "",
+        "unite": "°C"
+      }
+    },
+    {
+      "nom_complet": "Polonium",
+      "nom_abrege": "Po",
+      "nombre_protons": 84,
+      "nombre_neutrons": 125,
+      "nombre_electrons": 84,
+      "temperature_solide": {
+        "valeur": 254,
+        "unite": "°C"
+      },
+      "temperature_liquide": {
+        "valeur": 962,
+        "unite": "°C"
+      },
+      "temperature_gazeux": {
+        "valeur": "",
+        "unite": "°C"
+      }
+    },
+    {
+      "nom_complet": "Astate",
+      "nom_abrege": "At",
+      "nombre_protons": 85,
+      "nombre_neutrons": 125,
+      "nombre_electrons": 85,
+      "temperature_solide": {
+        "valeur": 302,
+        "unite": "°C"
+      },
+      "temperature_liquide": {
+        "valeur": "",
+        "unite": "°C"
+      },
+      "temperature_gazeux": {
+        "valeur": "",
+        "unite": "°C"
+      }
+    },
+    {
+      "nom_complet": "Radon",
+      "nom_abrege": "Rn",
+      "nombre_protons": 86,
+      "nombre_neutrons": 136,
+      "nombre_electrons": 86,
+      "temperature_solide": {
+        "valeur": -71,
+        "unite": "°C"
+      },
+      "temperature_liquide": {
+        "valeur": -61.7,
+        "unite": "°C"
+      },
+      "temperature_gazeux": {
+        "valeur": -61.7,
+        "unite": "°C"
+      }
+    },
+    {
+      "nom_complet": "Francium",
+      "nom_abrege": "Fr",
+      "nombre_protons": 87,
+      "nombre_neutrons": 136,
+      "nombre_electrons": 87,
+      "temperature_solide": {
+        "valeur": "",
+        "unite": "°C"
+      },
+      "temperature_liquide": {
+        "valeur": "",
+        "unite": "°C"
+      },
+      "temperature_gazeux": {
+        "valeur": "",
+        "unite": "°C"
+      }
+    },
+    {
+      "nom_complet": "Radium",
+      "nom_abrege": "Ra",
+      "nombre_protons": 88,
+      "nombre_neutrons": 138,
+      "nombre_electrons": 88,
+      "temperature_solide": {
+        "valeur": 700,
+        "unite": "°C"
+      },
+      "temperature_liquide": {
+        "valeur": 1737,
+        "unite": "°C"
+      },
+      "temperature_gazeux": {
+        "valeur": "",
+        "unite": "°C"
+      }
+    },
+    {
+      "nom_complet": "Actinium",
+      "nom_abrege": "Ac",
+      "nombre_protons": 89,
+      "nombre_neutrons": 138,
+      "nombre_electrons": 89,
+      "temperature_solide": {
+        "valeur": 1050,
+        "unite": "°C"
+      },
+      "temperature_liquide": {
+        "valeur": 3200,
+        "unite": "°C"
+      },
+      "temperature_gazeux": {
+        "valeur": "",
+        "unite": "°C"
+      }
+    },
+    {
+      "nom_complet": "Thorium",
+      "nom_abrege": "Th",
+      "nombre_protons": 90,
+      "nombre_neutrons": 142,
+      "nombre_electrons": 90,
+      "temperature_solide": {
+        "valeur": 1750,
+        "unite": "°C"
+      },
+      "temperature_liquide": {
+        "valeur": 4788,
+        "unite": "°C"
+      },
+      "temperature_gazeux": {
+        "valeur": "",
+        "unite": "°C"
+      }
+    },
+    {
+      "nom_complet": "Protactinium",
+      "nom_abrege": "Pa",
+      "nombre_protons": 91,
+      "nombre_neutrons": 140,
+      "nombre_electrons": 91,
+      "temperature_solide": {
+        "valeur": 1568,
+        "unite": "°C"
+      },
+      "temperature_liquide": {
+        "valeur": "",
+        "unite": "°C"
+      },
+      "temperature_gazeux": {
+        "valeur": "",
+        "unite": "°C"
+      }
+    },
+    {
+      "nom_complet": "Uranium",
+      "nom_abrege": "U",
+      "nombre_protons": 92,
+      "nombre_neutrons": 146,
+      "nombre_electrons": 92,
+      "temperature_solide": {
+        "valeur": 1132.2,
+        "unite": "°C"
+      },
+      "temperature_liquide": {
+        "valeur": 4131,
+        "unite": "°C"
+      },
+      "temperature_gazeux": {
+        "valeur": "",
+        "unite": "°C"
+      }
+    },
+    {
+      "nom_complet": "Neptunium",
+      "nom_abrege": "Np",
+      "nombre_protons": 93,
+      "nombre_neutrons": 144,
+      "nombre_electrons": 93,
+      "temperature_solide": {
+        "valeur": 644,
+        "unite": "°C"
+      },
+      "temperature_liquide": {
+        "valeur": "",
+        "unite": "°C"
+      },
+      "temperature_gazeux": {
+        "valeur": "",
+        "unite": "°C"
+      }
+    },
+    {
+      "nom_complet": "Plutonium",
+      "nom_abrege": "Pu",
+      "nombre_protons": 94,
+      "nombre_neutrons": 150,
+      "nombre_electrons": 94,
+      "temperature_solide": {
+        "valeur": 639.4,
+        "unite": "°C"
+      },
+      "temperature_liquide": {
+        "valeur": 3228,
+        "unite": "°C"
+      },
+      "temperature_gazeux": {
+        "valeur": "",
+        "unite": "°C"
+      }
+    },
+    {
+      "nom_complet": "Américium",
+      "nom_abrege": "Am",
+      "nombre_protons": 95,
+      "nombre_neutrons": 148,
+      "nombre_electrons": 95,
+      "temperature_solide": {
+        "valeur": 1176,
+        "unite": "°C"
+      },
+      "temperature_liquide": {
+        "valeur": 2607,
+        "unite": "°C"
+      },
+      "temperature_gazeux": {
+        "valeur": "",
+        "unite": "°C"
+      }
+    },
+    {
+      "nom_complet": "Curium",
+      "nom_abrege": "Cm",
+      "nombre_protons": 96,
+      "nombre_neutrons": 151,
+      "nombre_electrons": 96,
+      "temperature_solide": {
+        "valeur": 1345,
+        "unite": "°C"
+      },
+      "temperature_liquide": {
+        "valeur": "",
+        "unite": "°C"
+      },
+      "temperature_gazeux": {
+        "valeur": "",
+        "unite": "°C"
+      }
+    },
+    {
+      "nom_complet": "Berkélium",
+      "nom_abrege": "Bk",
+      "nombre_protons": 97,
+      "nombre_neutrons": 150,
+      "nombre_electrons": 97,
+      "temperature_solide": {
+        "valeur": 1050,
+        "unite": "°C"
+      },
+      "temperature_liquide": {
+        "valeur": "",
+        "unite": "°C"
+      },
+      "temperature_gazeux": {
+        "valeur": "",
+        "unite": "°C"
+      }
+    },
+    {
+      "nom_complet": "Californium",
+      "nom_abrege": "Cf",
+      "nombre_protons": 98,
+      "nombre_neutrons": 153,
+      "nombre_electrons": 98,
+      "temperature_solide": {
+        "valeur": 900,
+        "unite": "°C"
+      },
+      "temperature_liquide": {
+        "valeur": "",
+        "unite": "°C"
+      },
+      "temperature_gazeux": {
+        "valeur": "",
+        "unite": "°C"
+      }
+    },
+    {
+      "nom_complet": "Einsteinium",
+      "nom_abrege": "Es",
+      "nombre_protons": 99,
+      "nombre_neutrons": 153,
+      "nombre_electrons": 99,
+      "temperature_solide": {
+        "valeur": 860,
+        "unite": "°C"
+      },
+      "temperature_liquide": {
+        "valeur": "",
+        "unite": "°C"
+      },
+      "temperature_gazeux": {
+        "valeur": "",
+        "unite": "°C"
+      }
+    },
+    {
+      "nom_complet": "Fermium",
+      "nom_abrege": "Fm",
+      "nombre_protons": 100,
+      "nombre_neutrons": 157,
+      "nombre_electrons": 100,
+      "temperature_solide": {
+        "valeur": "",
+        "unite": "°C"
+      },
+      "temperature_liquide": {
+        "valeur": "",
+        "unite": "°C"
+      },
+      "temperature_gazeux": {
+        "valeur": "",
+        "unite": "°C"
+      }
+    },
+    {
+      "nom_complet": "Mendélévium",
+      "nom_abrege": "Md",
+      "nombre_protons": 101,
+      "nombre_neutrons": 157,
+      "nombre_electrons": 101,
+      "temperature_solide": {
+        "valeur": "",
+        "unite": "°C"
+      },
+      "temperature_liquide": {
+        "valeur": "",
+        "unite": "°C"
+      },
+      "temperature_gazeux": {
+        "valeur": "",
+        "unite": "°C"
+      }
+    },
+    {
+      "nom_complet": "Nobélium",
+      "nom_abrege": "No",
+      "nombre_protons": 102,
+      "nombre_neutrons": 157,
+      "nombre_electrons": 102,
+      "temperature_solide": {
+        "valeur": "",
+        "unite": "°C"
+      },
+      "temperature_liquide": {
+        "valeur": "",
+        "unite": "°C"
+      },
+      "temperature_gazeux": {
+        "valeur": "",
+        "unite": "°C"
+      }
+    },
+    {
+      "nom_complet": "Lawrencium",
+      "nom_abrege": "Lr",
+      "nombre_protons": 103,
+      "nombre_neutrons": 160,
+      "nombre_electrons": 103,
+      "temperature_solide": {
+        "valeur": "",
+        "unite": "°C"
+      },
+      "temperature_liquide": {
+        "valeur": "",
+        "unite": "°C"
+      },
+      "temperature_gazeux": {
+        "valeur": "",
+        "unite": "°C"
+      }
+    },
+    {
+      "nom_complet": "Rutherfordium",
+      "nom_abrege": "Rf",
+      "nombre_protons": 104,
+      "nombre_neutrons": 161,
+      "nombre_electrons": 104,
+      "temperature_solide": {
+        "valeur": "",
+        "unite": "°C"
+      },
+      "temperature_liquide": {
+        "valeur": "",
+        "unite": "°C"
+      },
+      "temperature_gazeux": {
+        "valeur": "",
+        "unite": "°C"
+      }
+    },
+    {
+      "nom_complet": "Dubnium",
+      "nom_abrege": "Db",
+      "nombre_protons": 105,
+      "nombre_neutrons": 163,
+      "nombre_electrons": 105,
+      "temperature_solide": {
+        "valeur": "",
+        "unite": "°C"
+      },
+      "temperature_liquide": {
+        "valeur": "",
+        "unite": "°C"
+      },
+      "temperature_gazeux": {
+        "valeur": "",
+        "unite": "°C"
+      }
+    },
+    {
+      "nom_complet": "Seaborgium",
+      "nom_abrege": "Sg",
+      "nombre_protons": 106,
+      "nombre_neutrons": 165,
+      "nombre_electrons": 106,
+      "temperature_solide": {
+        "valeur": "",
+        "unite": "°C"
+      },
+      "temperature_liquide": {
+        "valeur": "",
+        "unite": "°C"
+      },
+      "temperature_gazeux": {
+        "valeur": "",
+        "unite": "°C"
+      }
+    },
+    {
+      "nom_complet": "Bohrium",
+      "nom_abrege": "Bh",
+      "nombre_protons": 107,
+      "nombre_neutrons": 165,
+      "nombre_electrons": 107,
+      "temperature_solide": {
+        "valeur": "",
+        "unite": "°C"
+      },
+      "temperature_liquide": {
+        "valeur": "",
+        "unite": "°C"
+      },
+      "temperature_gazeux": {
+        "valeur": "",
+        "unite": "°C"
+      }
+    },
+    {
+      "nom_complet": "Hassium",
+      "nom_abrege": "Hs",
+      "nombre_protons": 108,
+      "nombre_neutrons": 169,
+      "nombre_electrons": 108,
+      "temperature_solide": {
+        "valeur": "",
+        "unite": "°C"
+      },
+      "temperature_liquide": {
+        "valeur": "",
+        "unite": "°C"
+      },
+      "temperature_gazeux": {
+        "valeur": "",
+        "unite": "°C"
+      }
+    },
+    {
+      "nom_complet": "Meitnerium",
+      "nom_abrege": "Mt",
+      "nombre_protons": 109,
+      "nombre_neutrons": 169,
+      "nombre_electrons": 109,
+      "temperature_solide": {
+        "valeur": "",
+        "unite": "°C"
+      },
+      "temperature_liquide": {
+        "valeur": "",
+        "unite": "°C"
+      },
+      "temperature_gazeux": {
+        "valeur": "",
+        "unite": "°C"
+      }
+    },
+    {
+      "nom_complet": "Darmstadtium",
+      "nom_abrege": "Ds",
+      "nombre_protons": 110,
+      "nombre_neutrons": 171,
+      "nombre_electrons": 110,
+      "temperature_solide": {
+        "valeur": "",
+        "unite": "°C"
+      },
+      "temperature_liquide": {
+        "valeur": "",
+        "unite": "°C"
+      },
+      "temperature_gazeux": {
+        "valeur": "",
+        "unite": "°C"
+      }
+    },
+    {
+      "nom_complet": "Roentgenium",
+      "nom_abrege": "Rg",
+      "nombre_protons": 111,
+      "nombre_neutrons": 171,
+      "nombre_electrons": 111,
+      "temperature_solide": {
+        "valeur": "",
+        "unite": "°C"
+      },
+      "temperature_liquide": {
+        "valeur": "",
+        "unite": "°C"
+      },
+      "temperature_gazeux": {
+        "valeur": "",
+        "unite": "°C"
+      }
+    },
+    {
+      "nom_complet": "Copernicium",
+      "nom_abrege": "Cn",
+      "nombre_protons": 112,
+      "nombre_neutrons": 173,
+      "nombre_electrons": 112,
+      "temperature_solide": {
+        "valeur": "",
+        "unite": "°C"
+      },
+      "temperature_liquide": {
+        "valeur": "",
+        "unite": "°C"
+      },
+      "temperature_gazeux": {
+        "valeur": "",
+        "unite": "°C"
+      }
+    },
+    {
+      "nom_complet": "Nihonium",
+      "nom_abrege": "Nh",
+      "nombre_protons": 113,
+      "nombre_neutrons": 173,
+      "nombre_electrons": 113,
+      "temperature_solide": {
+        "valeur": "",
+        "unite": "°C"
+      },
+      "temperature_liquide": {
+        "valeur": "",
+        "unite": "°C"
+      },
+      "temperature_gazeux": {
+        "valeur": "",
+        "unite": "°C"
+      }
+    },
+    {
+      "nom_complet": "Flerovium",
+      "nom_abrege": "Fl",
+      "nombre_protons": 114,
+      "nombre_neutrons": 175,
+      "nombre_electrons": 114,
+      "temperature_solide": {
+        "valeur": "",
+        "unite": "°C"
+      },
+      "temperature_liquide": {
+        "valeur": "",
+        "unite": "°C"
+      },
+      "temperature_gazeux": {
+        "valeur": "",
+        "unite": "°C"
+      }
+    },
+    {
+      "nom_complet": "Moscovium",
+      "nom_abrege": "Mc",
+      "nombre_protons": 115,
+      "nombre_neutrons": 175,
+      "nombre_electrons": 115,
+      "temperature_solide": {
+        "valeur": "",
+        "unite": "°C"
+      },
+      "temperature_liquide": {
+        "valeur": "",
+        "unite": "°C"
+      },
+      "temperature_gazeux": {
+        "valeur": "",
+        "unite": "°C"
+      }
+    },
+    {
+      "nom_complet": "Livermorium",
+      "nom_abrege": "Lv",
+      "nombre_protons": 116,
+      "nombre_neutrons": 177,
+      "nombre_electrons": 116,
+      "temperature_solide": {
+        "valeur": "",
+        "unite": "°C"
+      },
+      "temperature_liquide": {
+        "valeur": "",
+        "unite": "°C"
+      },
+      "temperature_gazeux": {
+        "valeur": "",
+        "unite": "°C"
+      }
+    },
+    {
+      "nom_complet": "Tennessine",
+      "nom_abrege": "Ts",
+      "nombre_protons": 117,
+      "nombre_neutrons": 177,
+      "nombre_electrons": 117,
+      "temperature_solide": {
+        "valeur": "",
+        "unite": "°C"
+      },
+      "temperature_liquide": {
+        "valeur": "",
+        "unite": "°C"
+      },
+      "temperature_gazeux": {
+        "valeur": "",
+        "unite": "°C"
+      }
+    },
+    {
+      "nom_complet": "Oganesson",
+      "nom_abrege": "Og",
+      "nombre_protons": 118,
+      "nombre_neutrons": 176,
+      "nombre_electrons": 118,
+      "temperature_solide": {
+        "valeur": "",
+        "unite": "°C"
+      },
+      "temperature_liquide": {
+        "valeur": "",
+        "unite": "°C"
+      },
+      "temperature_gazeux": {
+        "valeur": "",
+        "unite": "°C"
+      }
+    }
+  ]
+}
